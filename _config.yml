@@ -4,6 +4,7 @@ lang: de
 theme: minima
 
 header_pages:
+  - konzepte/sozialstaat.md
   - konzepte/energie.md
   - konzepte/einwanderung-ueber-bildung.md
   - vertiefung.md

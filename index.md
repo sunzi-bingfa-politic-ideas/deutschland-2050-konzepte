@@ -17,6 +17,7 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 
 ## Die Konzepte
 
+- **[Der Sozialstaat](konzepte/sozialstaat.md)** — wie das System wirklich funktioniert, wer es trägt und warum sich diese Rechnung gerade verschiebt.
 - **[Energie](konzepte/energie.md)** — Wärme, Strom, Wasserstoff: und warum der Atommüll von gestern Teil einer Lösung von morgen sein könnte.
 - **[Einwanderung über Bildung](konzepte/einwanderung-ueber-bildung.md)** — ein planbarer, fairer Weg nach Deutschland, der im Klassenzimmer beginnt statt an der Grenze.
 
