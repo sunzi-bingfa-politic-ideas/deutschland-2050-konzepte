@@ -21,8 +21,9 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 - **[Energie](konzepte/energie.md)** — Wärme, Strom, Wasserstoff: und warum der Atommüll von gestern Teil einer Lösung von morgen sein könnte.
 - **[Einwanderung über Bildung](konzepte/einwanderung-ueber-bildung.md)** — ein planbarer, fairer Weg nach Deutschland, der im Klassenzimmer beginnt statt an der Grenze.
 - **[Physische KI](konzepte/physische-ki.md)** — das Wissen der erfahrensten Industriegeneration sichern, bevor sie geht: Roboter, die von Meistern lernen.
+- **[Die Mittelmeer-Partnerschaft](konzepte/mittelmeer.md)** — Energie, Aufstieg und Nachbarschaft auf Augenhöhe: warum Europas Zukunft auch südlich des Meeres entschieden wird.
 
-Weitere Konzepte folgen nach und nach: Rente, Gesundheit, Wohnen, Integration, Europa, Sicherheit.
+Diese fünf Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
 
 ## Was das hier ist — und was nicht
 
