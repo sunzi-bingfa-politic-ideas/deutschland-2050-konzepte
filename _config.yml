@@ -1,0 +1,18 @@
+title: "Deutschland 2050 — Konzepte in Klartext"
+description: "Verständliche Konzepte für die großen, langsamen Fragen Deutschlands: Energie, Einwanderung, Rente, Gesundheit, Wohnen und mehr. Ohne Fachsprache, ohne Parteibuch."
+lang: de
+theme: minima
+
+header_pages:
+  - konzepte/energie.md
+  - konzepte/einwanderung-ueber-bildung.md
+  - vertiefung.md
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+show_excerpts: false
