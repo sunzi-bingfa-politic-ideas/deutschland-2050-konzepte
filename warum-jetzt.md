@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Dekaden-Uhr
+title: Warum jetzt?
 ---
 
-# Die Dekaden-Uhr: Was wann entschieden werden muss
+# Warum jetzt?
 
-Die Konzepte auf diesen Seiten beantworten die Frage, *was* zu tun wäre. Die häufigste Gegenfrage ist eine andere: *Warum jetzt?* Diese Seite beantwortet sie.
+Die Konzepte auf diesen Seiten beantworten die Frage, *was* zu tun wäre. Die häufigste Gegenfrage ist eine andere: *Warum jetzt — und nicht später, wenn Haushalt, Lage und Mehrheiten günstiger sind?* Diese Seite beantwortet sie.
 
 Die Antwort beginnt mit einer Besonderheit der Demografie: Sie ist kein Prognosegeschäft. Jeder Mensch, der in den nächsten zwanzig Jahren in Rente geht, ist heute schon geboren; jeder, der in den nächsten zwanzig Jahren ins Arbeitsleben eintritt, auch. Der Kalender ist gedruckt. Bis Mitte der 2030er Jahre erreichen Jahr für Jahr rund 1,3 Millionen Menschen das Rentenalter, während nur etwa 800.000 junge nachrücken — bis 2036 fehlen über vier Millionen Arbeitskräfte. Man kann darüber streiten, wie man damit umgeht. Man kann nicht darüber streiten, *dass* es passiert.
 

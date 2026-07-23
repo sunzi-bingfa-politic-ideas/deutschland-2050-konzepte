@@ -25,7 +25,7 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 
 Diese fünf Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
 
-Und weil die naheliegendste Frage lautet, was davon *zuerst* geschehen muss: Die **[Dekaden-Uhr](dekaden-uhr.md)** legt die Zeitachsen aller fünf Konzepte übereinander — und zeigt, warum „später" bei manchen davon keine neutrale Option ist.
+Und weil die naheliegendste Frage lautet, was davon *zuerst* geschehen muss: **[Warum jetzt?](warum-jetzt.md)** legt die Zeitachsen aller fünf Konzepte übereinander — und zeigt, warum „später" bei manchen davon keine neutrale Option ist.
 
 ## Was das hier ist — und was nicht
 
