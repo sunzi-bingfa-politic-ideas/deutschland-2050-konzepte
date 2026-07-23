@@ -22,10 +22,11 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 - **[Einwanderung über Bildung](konzepte/einwanderung-ueber-bildung.md)** — ein planbarer, fairer Weg nach Deutschland, der im Klassenzimmer beginnt statt an der Grenze.
 - **[Physische KI](konzepte/physische-ki.md)** — das Wissen der erfahrensten Industriegeneration sichern, bevor sie geht: Roboter, die von Meistern lernen.
 - **[Die Mittelmeer-Partnerschaft](konzepte/mittelmeer.md)** — Energie, Aufstieg und Nachbarschaft auf Augenhöhe: warum Europas Zukunft auch südlich des Meeres entschieden wird.
+- **[Klimaschutz](konzepte/klimaschutz.md)** — aus systemischer Sicht: warum gut gemeinte Klimapolitik verpuffen kann, und was die Weltsumme wirklich senkt — Technologie, Bündnisse, Senken.
 
-Diese fünf Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
+Diese sechs Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
 
-Und weil die naheliegendste Frage lautet, was davon *zuerst* geschehen muss: **[Warum jetzt?](warum-jetzt.md)** legt die Zeitachsen aller fünf Konzepte übereinander — und zeigt, warum „später" bei manchen davon keine neutrale Option ist.
+Und weil die naheliegendste Frage lautet, was davon *zuerst* geschehen muss: **[Warum jetzt?](warum-jetzt.md)** legt die Zeitachsen der Konzepte übereinander — und zeigt, warum „später" bei manchen davon keine neutrale Option ist.
 
 ## Was das hier ist — und was nicht
 

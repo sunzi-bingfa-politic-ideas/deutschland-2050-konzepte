@@ -9,7 +9,7 @@ Die Konzepte auf diesen Seiten beantworten die Frage, *was* zu tun wäre. Die h�
 
 Die Antwort beginnt mit einer Besonderheit der Demografie: Sie ist kein Prognosegeschäft. Jeder Mensch, der in den nächsten zwanzig Jahren in Rente geht, ist heute schon geboren; jeder, der in den nächsten zwanzig Jahren ins Arbeitsleben eintritt, auch. Der Kalender ist gedruckt. Bis Mitte der 2030er Jahre erreichen Jahr für Jahr rund 1,3 Millionen Menschen das Rentenalter, während nur etwa 800.000 junge nachrücken — bis 2036 fehlen über vier Millionen Arbeitskräfte. Man kann darüber streiten, wie man damit umgeht. Man kann nicht darüber streiten, *dass* es passiert.
 
-Vor diesem Kalender haben die fünf Konzepte dieser Seiten sehr unterschiedliche Geschwindigkeiten. Manche wirken in fünf Jahren, manche in fünfzehn. Wer das nicht auseinanderhält, verspricht zu viel — oder startet zu spät. Deshalb diese Uhr, in drei Phasen.
+Vor diesem Kalender haben die Konzepte dieser Seiten sehr unterschiedliche Geschwindigkeiten. Manche wirken in fünf Jahren, manche in fünfzehn. Wer das nicht auseinanderhält, verspricht zu viel — oder startet zu spät. Deshalb diese Uhr, in drei Phasen.
 
 ---
 
@@ -43,7 +43,7 @@ Ob die 2030er schwer werden, steht nicht mehr zur Entscheidung — das haben die
 
 Deshalb ist „später" bei den langsamen Hebeln keine neutrale Option. Wer die Wissenssicherung auf 2032 verschiebt, verschiebt sie nicht — er halbiert sie. Wer den Kapitalaufbau auf 2035 verschiebt, verschiebt nicht den Beginn, sondern den Ertrag einer ganzen Generation. Und wer die Bildungswege erst im Engpass öffnet, öffnet sie für die Zeit danach.
 
-Was von allem *heute* beginnen muss, ist damit keine Meinungsfrage mehr, sondern ablesbar: die Wissenssicherung, der Bildungs-Einwanderungsweg, der Kapitalaufbau, die Energie- und Mittelmeer-Verträge. Alles davon ist in den fünf Konzepten dieser Seiten beschrieben.
+Was von allem *heute* beginnen muss, ist damit keine Meinungsfrage mehr, sondern ablesbar: die Wissenssicherung, der Bildungs-Einwanderungsweg, der Kapitalaufbau, die Energie- und Mittelmeer-Verträge — und die [Klima-Architektur](konzepte/klimaschutz.md) aus Bündnissen, Grenzausgleich und Senken, deren Regeln gerade jetzt geschrieben werden. Alles davon ist in den Konzepten dieser Seiten beschrieben.
 
 ---
 
