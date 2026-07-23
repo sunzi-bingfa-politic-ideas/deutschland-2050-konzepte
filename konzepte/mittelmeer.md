@@ -67,8 +67,6 @@ Das Mittelmeer war die meiste Zeit seiner Geschichte keine Grenze, sondern ein M
 
 ---
 
-*Hinter diesem Konzept stehen ausführlichere Analysen — siehe [Vertiefung](../vertiefung.md).*
-
 ## Quellen und weiterführende Links
 
 - [Europäische Kommission: Der Pakt für das Mittelmeer und die T-MED-Energieinitiative](https://north-africa-middle-east-gulf.ec.europa.eu/what-we-do/trans-mediterranean-renewable-energy-and-clean-tech-cooperation-initiative-t-med_en)

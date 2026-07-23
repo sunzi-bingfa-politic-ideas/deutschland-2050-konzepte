@@ -72,8 +72,6 @@ Und die ehrlichste Zeile zum Schluss: Deutschland kann das Klima nicht retten. E
 
 ---
 
-*Hinter diesem Konzept stehen ausführlichere Analysen — siehe [Vertiefung](../vertiefung.html).*
-
 ## Quellen und weiterführende Links
 
 - [Science Media Center: CO₂-Kompensation durch Waldschutz hält nicht, was sie verspricht (zur Science-Studie 2023)](https://www.sciencemediacenter.de/angebote/cosub2sub-kompensation-durch-waldschutz-haelt-nicht-was-sie-verspricht-23142)

@@ -56,7 +56,3 @@ Man müsste nicht bei null beginnen. Deutschland hat eine erprobte Fernuniversit
 Ein Pilotprojekt mit einer Handvoll Partnerländer, wenigen Fachrichtungen und externen Prüfungen von Anfang an würde genügen, um die entscheidenden Fragen zu beantworten: Halten die Abschlüsse dem Vergleich stand? Kommen die Richtigen? Kehren genug zurück, damit die Partnerländer gewinnen?
 
 Migration wird in den kommenden Jahrzehnten stattfinden — so oder so. Die Wahl, die Deutschland hat, ist nicht, ob Menschen kommen. Die Wahl ist zwischen Zufall und Struktur.
-
----
-
-*Hinter diesem Konzept stehen ausführlichere Analysen zu Kosten, Teilnehmerzahlen und Programmgestaltung — siehe [Vertiefung](../vertiefung.md).*

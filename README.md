@@ -10,14 +10,11 @@ Verständliche Konzepte für die großen, langsamen Fragen Deutschlands: Energie
 
 - `index.md` — Startseite: der gemeinsame Gedanke hinter allen Konzepten
 - `konzepte/` — die einzelnen Konzepte, jedes in etwa zehn Minuten lesbar
-- `vertiefung.md` — Verweis auf das Archiv mit allen Modellen und Berechnungen
+- `warum-jetzt.md` — die zeitliche Ordnung: was wann entschieden werden muss
 
 ## Hintergrund
 
-Die Konzepte beruhen auf mehrjähriger Arbeit mit quantitativen Modellen (Simulationen, Sensitivitätsanalysen). Diese ausführliche Fassung liegt archiviert und offen einsehbar unter:
-https://github.com/sunzi-bingfa-politic-ideas/deutschland-2050-transformationsstrategie
-
-Alle Zahlen dort sind Modellergebnisse unter ausdrücklich genannten Annahmen — keine Vorhersagen.
+Die Konzepte beruhen auf mehrjähriger Arbeit mit quantitativen Modellen (Simulationen, Sensitivitätsanalysen). Eine bereinigte, öffentlich einsehbare Fassung dieses Materials ist in Vorbereitung. Alle Zahlen dort sind Modellergebnisse unter ausdrücklich genannten Annahmen — keine Vorhersagen.
 
 ## Lizenz
 

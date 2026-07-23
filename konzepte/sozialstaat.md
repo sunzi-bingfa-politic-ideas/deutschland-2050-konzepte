@@ -59,8 +59,6 @@ Ein Sozialstaat, der Bestand haben soll, braucht beides: die Solidarität des F�
 
 ---
 
-*Hinter diesem Konzept stehen ausführlichere Analysen — siehe [Vertiefung](../vertiefung.md).*
-
 ## Quellen und weiterführende Links
 
 - [Statistisches Bundesamt: Erwerbstätigenzahl im Jahr 2025](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26_001_13321.html)

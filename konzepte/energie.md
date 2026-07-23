@@ -63,8 +63,6 @@ Die eigentliche Frage ist deshalb nicht die alte: „für oder gegen Atomkraft".
 
 ---
 
-*Hinter diesem Konzept stehen ausführlichere Analysen zu Kosten, Zeitplänen und Risiken — siehe [Vertiefung](../vertiefung.md).*
-
 ## Quellen und weiterführende Links
 
 - [Bundesamt für die Sicherheit der nuklearen Entsorgung: Abfallmengen in Deutschland](https://www.base.bund.de/de/zwischenlager/atommuell/abfallmengen/abfallmengen-atommuell.html)

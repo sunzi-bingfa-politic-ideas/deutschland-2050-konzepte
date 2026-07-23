@@ -69,8 +69,6 @@ Deutschland hat Roboter immer gebaut. Jetzt geht es darum, ihnen beizubringen, w
 
 ---
 
-*Hinter diesem Konzept stehen ausführlichere Analysen — siehe [Vertiefung](../vertiefung.md).*
-
 ## Quellen und weiterführende Links
 
 - [Statistisches Bundesamt: 13,4 Millionen Erwerbspersonen erreichen in den nächsten 15 Jahren das Rentenalter](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N048_13.html)

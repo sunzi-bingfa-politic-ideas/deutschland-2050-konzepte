@@ -34,4 +34,4 @@ Kein Parteiprogramm. Kein Manifest. Keine fertige Wahrheit.
 
 Sondern Vorschläge, die man prüfen, kritisieren und verbessern kann. Wer widersprechen will, ist ausdrücklich eingeladen — am einfachsten öffentlich, dort, wo diese Seiten geteilt werden.
 
-Hinter jedem Konzept stehen ausführlichere Analysen und Modellrechnungen. Sie liegen offen einsehbar in einem Archiv — mehr dazu unter [Vertiefung](vertiefung.md).
+Hinter jedem Konzept stehen ausführlichere Analysen und Modellrechnungen. Eine bereinigte, öffentlich einsehbare Fassung dieses Materials ist in Vorbereitung.
