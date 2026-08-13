@@ -9,6 +9,19 @@ title: Roboter und KI
 
 Jeden Werktag gehen in Deutschland tausende Menschen zum letzten Mal durch ihr Werkstor. Bis Mitte der 2030er Jahre erreichen Jahr für Jahr rund 1,3 Millionen Menschen das Rentenalter — während nur etwa 800.000 junge nachrücken. Unterm Strich fehlen der Wirtschaft bis 2036 mehr als vier Millionen Arbeitskräfte.
 
+<figure>
+<svg viewBox="0 0 660 172" role="img" aria-label="Balkendiagramm: Jedes Jahr erreichen rund 1,3 Millionen Menschen das Rentenalter, während nur rund 800.000 junge ins Arbeitsleben nachrücken. Die Lücke beträgt rund eine halbe Million pro Jahr." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="15" font-weight="600" fill="#111">Erreichen jedes Jahr das Rentenalter</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">rund 1,3 Millionen</text>
+  <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#eb6834"/>
+  <text x="2" y="104" font-size="15" font-weight="600" fill="#111">Rücken jedes Jahr ins Arbeitsleben nach</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">rund 800.000</text>
+  <path d="M2 114 h365 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-365 z" fill="#2a78d6"/>
+  <text x="2" y="162" font-size="14" font-weight="600" fill="#111">Die Lücke: rund eine halbe Million Menschen — Jahr für Jahr, bis Mitte der 2030er.</text>
+</svg>
+<figcaption>Die demografische Schere. Alle Beteiligten sind bereits geboren — an diesen Balken ändert keine Politik mehr etwas. Daten: Statistisches Bundesamt, Institut der deutschen Wirtschaft.</figcaption>
+</figure>
+
 Über diese Lücke wird viel geredet. Über die zweite, stillere Lücke fast gar nicht: Mit diesen Menschen geht Wissen — und zwar genau das Wissen, das in keinem Handbuch steht. Der Maschinenführer, der am Klang hört, dass eine Anlage in zwei Tagen ausfallen wird. Die Chemikantin, die spürt, wann ein Prozess zu kippen beginnt. Der Schweißer, der eine Naht in einer Lage zieht, für die andere drei brauchen. Dieses Erfahrungswissen ist über Jahrzehnte entstanden, es steckt in Händen, Augen und Routinen — und bisher verschwindet es an dem Tag, an dem sein Träger in Rente geht.
 
 Deutschland steht damit vor einem Vorgang, den man nüchtern so beschreiben kann: Die erfahrenste Industriegeneration der deutschen Geschichte verlässt in einem Zeitfenster von etwa zehn Jahren die Werkhallen. Was sie weiß, wird entweder jetzt gesichert — oder nie.

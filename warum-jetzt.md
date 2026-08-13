@@ -11,6 +11,23 @@ Die Antwort beginnt mit einer Besonderheit der Demografie: Sie ist kein Prognose
 
 Vor diesem Kalender haben die Konzepte dieser Seiten sehr unterschiedliche Geschwindigkeiten. Manche wirken in fünf Jahren, manche in fünfzehn. Wer das nicht auseinanderhält, verspricht zu viel — oder startet zu spät. Deshalb diese Uhr, in drei Phasen.
 
+<figure>
+<svg viewBox="0 0 660 70" role="img" aria-label="Zeitleiste 2026 bis 2050 in drei Phasen: Weichenjahre 2026 bis 2030, Engpass 2030 bis 2036, Ertrag oder Versäumnis 2036 bis 2050." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <rect x="2" y="8" width="99" height="24" fill="#86b6ef"/>
+  <text x="51" y="24" font-size="11.5" font-weight="600" fill="#111" text-anchor="middle">Weichenjahre</text>
+  <rect x="103" y="8" width="148" height="24" fill="#3987e5"/>
+  <text x="177" y="24" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">Engpass</text>
+  <path d="M253 8 h345 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-345 z" fill="#1c5cab"/>
+  <text x="427" y="24" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">Ertrag — oder Versäumnis</text>
+  <path d="M2 36 v6 M103 36 v6 M253 36 v6 M602 36 v6" stroke="#898781" stroke-width="1" fill="none"/>
+  <text x="2" y="58" font-size="12.5" fill="#5a5850">2026</text>
+  <text x="103" y="58" font-size="12.5" fill="#5a5850" text-anchor="middle">2030</text>
+  <text x="253" y="58" font-size="12.5" fill="#5a5850" text-anchor="middle">2036</text>
+  <text x="602" y="58" font-size="12.5" fill="#5a5850" text-anchor="end">2050</text>
+</svg>
+<figcaption>Die Uhr der Konzepte: vier unwiederholbare Weichenjahre, der demografische Engpass, dann Ertrag — oder Versäumnis. Die Reihenfolge ist robust; einzelne Jahreszahlen sind Planungsstände.</figcaption>
+</figure>
+
 ---
 
 ## 2026–2030: Die Weichenjahre

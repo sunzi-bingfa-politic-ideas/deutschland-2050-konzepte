@@ -11,6 +11,18 @@ In Thalheim bei Bitterfeld-Wolfen, in einer Region, die nach der Wiedervereinigu
 
 2012 war Q-Cells insolvent. Heute gehört der Name einem koreanischen Konzern. Die deutsche Solarindustrie verlor innerhalb weniger Jahre rund hunderttausend Arbeitsplätze, und mehr als vier Fünftel der weltweiten Solarfertigung — vom Rohsilizium bis zum fertigen Modul — stehen heute in China.
 
+<figure>
+<svg viewBox="0 0 660 152" role="img" aria-label="Balkendiagramm: Beschäftigte in der deutschen Solarbranche. 2011 rund 157.000, 2016 rund 45.000." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="15" font-weight="600" fill="#111">2011</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">rund 157.000 Beschäftigte</text>
+  <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#008300"/>
+  <text x="2" y="104" font-size="15" font-weight="600" fill="#111">2016</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">rund 45.000 Beschäftigte</text>
+  <path d="M2 114 h168 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-168 z" fill="#008300"/>
+</svg>
+<figcaption>Beschäftigte in der deutschen Solarbranche (gerundet): Mehr als 100.000 Arbeitsplätze verschwanden in fünf Jahren. Daten: Studienreihe im Auftrag des Bundeswirtschaftsministeriums (GWS, DLR, DIW u. a.).</figcaption>
+</figure>
+
 Man kann diese Geschichte als Klage erzählen. Nützlicher ist sie als Lehrstück.
 
 ## Was wirklich geschah
@@ -34,6 +46,21 @@ Das Muster ähnelt sich jedes Mal: Deutschland forscht stark, erfindet viel, beg
 Lange konnte man hoffen, das alles sei eine Übergangserscheinung — die Welt werde zurückfinden zu offenen Märkten und gleichen Regeln für alle. Die Ereignisse der letzten Jahre sprechen eine andere Sprache, und es genügt, sie aufzuzählen:
 
 Die Vereinigten Staaten fördern ihre heimische Industrie seit 2022 mit einem Subventionspaket von mehreren hundert Milliarden Dollar — und erheben seit 2025 auf die meisten europäischen Waren einen Zoll von fünfzehn Prozent; wenige Jahre zuvor lag der Durchschnitt unter fünf. China gibt für Industrieförderung, gemessen an seiner Wirtschaftsleistung, etwa viermal so viel aus wie die USA. Und es hat gezeigt, dass Lieferketten auch Druckmittel sind: Als Peking im Frühjahr 2025 die Ausfuhr Seltener Erden von Genehmigungen abhängig machte, standen wenige Wochen später erste Produktionslinien europäischer Autozulieferer still — nicht, weil Aufträge fehlten, sondern weil Magnete fehlten. Die EU wiederum erhebt seit Ende 2024 Zusatzzölle auf Elektroautos aus China, weil sie deren Subventionierung als wettbewerbsverzerrend einstuft.
+
+<figure>
+<svg viewBox="0 0 660 224" role="img" aria-label="Balkendiagramm: Staatliche Industrieförderung in Prozent der Wirtschaftsleistung, 2019. China 1,7 Prozent, Südkorea 0,7 Prozent, USA 0,4 Prozent." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="15" font-weight="600" fill="#111">China</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">1,7 % der Wirtschaftsleistung</text>
+  <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#2a78d6"/>
+  <text x="2" y="104" font-size="15" font-weight="600" fill="#111">Südkorea</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">0,7 %</text>
+  <path d="M2 114 h228 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-228 z" fill="#b0aea5"/>
+  <text x="2" y="178" font-size="15" font-weight="600" fill="#111">USA</text>
+  <text x="602" y="178" font-size="14" fill="#5a5850" text-anchor="end">0,4 %</text>
+  <path d="M2 188 h131 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-131 z" fill="#b0aea5"/>
+</svg>
+<figcaption>Staatliche Industrieförderung im Vergleich: Ausgaben in Prozent der Wirtschaftsleistung, 2019 — Subventionen, Steuernachlässe und verbilligte Kredite, konservativ geschätzt. Quelle: CSIS-Studie „Red Ink".</figcaption>
+</figure>
 
 Zölle, Subventionswettläufe, Exportkontrollen als politisches Werkzeug: Der Wettbewerb der Unternehmen ist zum Wettbewerb der Staaten geworden. Das ist keine Parole, sondern eine Zusammenfassung von Ereignissen. Und es verschiebt die Frage. Sie lautet nicht mehr, ob Deutschland und Europa Industriepolitik betreiben — sondern ob sie es planvoll tun oder erst dann, wenn wieder ein Tal seine Fabrik verliert.
 
@@ -68,6 +95,7 @@ Die eigentliche Frage ist nicht, ob sich der Wandel der Weltwirtschaft aufhalten
 ## Quellen und weiterführende Links
 
 - [pv magazine: Die Krise der deutschen Solarindustrie in Zahlen](https://www.pv-magazine.de/2013/07/04/krise-der-deutschen-solarindustrie-in-zahlen/)
+- [Beschäftigung in der Solarbranche: von rund 157.000 (2011) auf rund 45.000 (2016)](https://www.erneuerbareenergien.de/energiemarkt/energiemaerkte-weltweit/solarenergie-deutschland-jeder-zehnte-arbeitsplatz-ist-weg)
 - [IWR: Was aus Q-Cells und den anderen insolventen deutschen Solarherstellern wurde](https://www.iwr.de/news/uebernahmen-insolventer-solar-hersteller-aus-deutschland-was-ist-aus-q-cells-sunways-scheuten-co-geworden-news25174)
 - [Internationale Energieagentur: Globale Solar-Lieferketten (Konzentration der Fertigung in China)](https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary)
 - [Northvolt: Mitteilung zur Insolvenz in Schweden (März 2025)](https://northvolt.com/articles/northvolt-files-for-bankruptcy-in-sweden/)

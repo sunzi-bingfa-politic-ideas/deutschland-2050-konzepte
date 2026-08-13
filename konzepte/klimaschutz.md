@@ -11,6 +11,24 @@ Eine Vorbemerkung, damit klar ist, wovon diese Seite handelt — und wovon nicht
 
 Deutschland verursacht knapp zwei Prozent der weltweiten Emissionen, die ganze Europäische Union unter sieben. Das heißt nüchtern: Selbst ein vollständig klimaneutrales Deutschland verändert die Weltsumme kaum — *wenn* seine Anstrengung nichts auslöst, das über Deutschland hinauswirkt.
 
+<figure>
+<svg viewBox="0 0 660 128" role="img" aria-label="Gestapelter Balken: Anteile an den weltweiten Treibhausgas-Emissionen. Deutschland knapp 2 Prozent, übrige EU rund 5 Prozent, Rest der Welt über 93 Prozent. Allein Chinas Emissionshandel, aufgebaut nach EU-Vorbild, erfasst rund 15 Prozent." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="20" font-size="13.5" fill="#5a5850">Anteile an den weltweiten Treibhausgas-Emissionen</text>
+  <rect x="2" y="32" width="12" height="24" fill="#1c5cab"/>
+  <rect x="16" y="32" width="30" height="24" fill="#5598e7"/>
+  <path d="M48 32 h550 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-550 z" fill="#b0aea5"/>
+  <path d="M512 64 v6 M512 64 h90 M602 64 v6" stroke="#898781" stroke-width="1" fill="none"/>
+  <text x="602" y="86" font-size="13" fill="#5a5850" text-anchor="end">allein Chinas Emissionshandel — nach EU-Vorbild — erfasst rund 15 %</text>
+  <rect x="2" y="106" width="12" height="12" rx="2" fill="#1c5cab"/>
+  <text x="20" y="116" font-size="13.5" fill="#5a5850">Deutschland — knapp 2 %</text>
+  <rect x="210" y="106" width="12" height="12" rx="2" fill="#5598e7"/>
+  <text x="228" y="116" font-size="13.5" fill="#5a5850">übrige EU — rund 5 %</text>
+  <rect x="400" y="106" width="12" height="12" rx="2" fill="#b0aea5"/>
+  <text x="418" y="116" font-size="13.5" fill="#5a5850">Rest der Welt — über 93 %</text>
+</svg>
+<figcaption>Der Maßstab dieser Seite in einem Balken: Selbst ein vollständig klimaneutrales Deutschland veränderte die Weltsumme kaum. Der Hebel liegt in dem, was über die eigene Bilanz hinauswirkt — Kostenkurven und Institutionen. Anteile gerundet.</figcaption>
+</figure>
+
 Daraus folgt der Maßstab dieser Seite, und er ist unbequemer als die übliche Debatte: Nicht „Wie schnell sinkt unsere Bilanz?", sondern **„Wie verändert unser Handeln die Weltsumme?"** Das klingt nach einem kleinen Unterschied. Es ist der ganze Unterschied — denn dem Klima ist gleichgültig, in welchem Land ein Molekül eingespart oder ausgestoßen wird.
 
 ## Was unsicher bleibt — und was exakt sein muss
