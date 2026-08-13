@@ -18,7 +18,7 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 ## Die Konzepte
 
 - **[Der Sozialstaat](konzepte/sozialstaat.md)** — wie das System wirklich funktioniert, wer es trägt und warum sich diese Rechnung gerade verschiebt.
-- **[Energie](konzepte/energie.md)** — Wärme, Strom, Wasserstoff: und warum der Atommüll von gestern Teil einer Lösung von morgen sein könnte.
+- **[Energie](konzepte/energie.md)** — was Strom wirklich deckt: die wahren Proportionen des deutschen Energieverbrauchs, was Elektrifizierung bedeutet — und warum der Atommüll von gestern trotzdem interessant bleibt.
 - **[Einwanderung über Bildung](konzepte/einwanderung-ueber-bildung.md)** — ein planbarer, fairer Weg nach Deutschland, der im Klassenzimmer beginnt statt an der Grenze.
 - **[Physische KI](konzepte/physische-ki.md)** — das Wissen der erfahrensten Industriegeneration sichern, bevor sie geht: Roboter, die von Meistern lernen.
 - **[Die Mittelmeer-Partnerschaft](konzepte/mittelmeer.md)** — Energie, Aufstieg und Nachbarschaft auf Augenhöhe: warum Europas Zukunft auch südlich des Meeres entschieden wird.
