@@ -23,8 +23,9 @@ Die Konzepte auf diesen Seiten folgen deshalb einer gemeinsamen Richtung: **aufb
 - **[Physische KI](konzepte/physische-ki.md)** — das Wissen der erfahrensten Industriegeneration sichern, bevor sie geht: Roboter, die von Meistern lernen.
 - **[Die Mittelmeer-Partnerschaft](konzepte/mittelmeer.md)** — Energie, Aufstieg und Nachbarschaft auf Augenhöhe: warum Europas Zukunft auch südlich des Meeres entschieden wird.
 - **[Klimaschutz](konzepte/klimaschutz.md)** — aus systemischer Sicht: Über Szenarien kann man nur in Bandbreiten sprechen — über Maßnahmen muss man exakt sein. Was die Weltsumme wirklich senkt: Technologie, Bündnisse, Senken.
+- **[Industriepolitik](konzepte/industriepolitik.md)** — was das Solar Valley lehrt: warum Deutschland Industrien erfindet und verliert — und was sich ändern muss, wenn Staaten wieder Standortpolitik betreiben.
 
-Diese sechs Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
+Diese sieben Konzepte bilden das Fundament. Weitere können folgen — unter anderem zu Rente, Gesundheit und Wohnen.
 
 Und weil die naheliegendste Frage lautet, was davon *zuerst* geschehen muss: **[Warum jetzt?](warum-jetzt.md)** legt die Zeitachsen der Konzepte übereinander — und zeigt, warum „später" bei manchen davon keine neutrale Option ist.
 
