@@ -15,9 +15,39 @@ Beides ist wahr, am selben Mittag. Der Unterschied liegt nicht in den Fakten, so
 
 Wer über Energie entscheiden will, braucht zuerst einen Maßstab — und der sieht nüchtern so aus: Von der gesamten Energie, die Deutschland in einem Jahr einsetzt, stammen nach den Bilanzen für 2025 immer noch rund drei Viertel aus Öl, Gas und Kohle. Die Erneuerbaren decken gut ein Fünftel des Gesamtverbrauchs.
 
-Wie passt das zu den Erfolgsmeldungen? Die Auflösung liegt in den drei Sektoren, aus denen der Verbrauch besteht. Beim **Strom** decken die Erneuerbaren inzwischen gut 55 Prozent — ein realer Erfolg, von wenigen Prozent in den 1990er Jahren kommend, den man nicht kleinreden muss. Bei der **Wärme**, dem größten Posten, sind es 19 Prozent. Im **Verkehr** acht. Die Energiewende ist bisher vor allem eine Stromwende — und der Strom ist das kleinste der drei Felder.
+Wie passt das zu den Erfolgsmeldungen? Die Auflösung liegt in den drei Feldern, aus denen der Verbrauch besteht — und ein Bild zeigt sie schneller als jeder Absatz:
 
-Die Wärme verdient dabei den genauesten Blick, denn sie ist der stille Riese: Rund zwei Drittel der Energie, die die deutsche Industrie verbraucht, ist Wärme — oft bei mehreren hundert Grad, Tag und Nacht, das ganze Jahr. Allein die industrielle Prozesswärme entspricht in ihrer Jahresmenge fast dem gesamten deutschen Stromverbrauch. Und der Verkehr fährt, von einem kleinen elektrischen Anteil abgesehen, nach wie vor mit Öl.
+<figure>
+<svg viewBox="0 0 660 272" role="img" aria-label="Balkendiagramm: Erneuerbarer Anteil in den drei Energiefeldern 2025. Wärme, rund 1.300 Terawattstunden, davon 19 Prozent erneuerbar. Verkehr, rund 700 Terawattstunden, davon 8 Prozent erneuerbar. Strom, rund 500 Terawattstunden, davon 55 Prozent erneuerbar." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <rect x="2" y="8" width="14" height="14" rx="2" fill="#008300"/>
+  <text x="22" y="20" font-size="14" fill="#5a5850">erneuerbar</text>
+  <rect x="140" y="8" width="14" height="14" rx="2" fill="#b0aea5"/>
+  <text x="160" y="20" font-size="14" fill="#5a5850">der Rest — überwiegend fossil</text>
+
+  <text x="2" y="62" font-size="15" font-weight="600" fill="#111">Wärme</text>
+  <text x="602" y="62" font-size="14" fill="#5a5850" text-anchor="end">rund 1.300 TWh</text>
+  <rect x="2" y="72" width="114" height="24" fill="#008300"/>
+  <path d="M118 72 h480 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-480 z" fill="#b0aea5"/>
+  <text x="2" y="114" font-size="14" font-weight="600" fill="#111">19 % erneuerbar</text>
+
+  <text x="2" y="136" font-size="15" font-weight="600" fill="#111">Verkehr</text>
+  <text x="602" y="136" font-size="14" fill="#5a5850" text-anchor="end">rund 700 TWh</text>
+  <rect x="2" y="146" width="26" height="24" fill="#008300"/>
+  <path d="M30 146 h289 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-289 z" fill="#b0aea5"/>
+  <text x="2" y="188" font-size="14" font-weight="600" fill="#111">8 %</text>
+
+  <text x="2" y="210" font-size="15" font-weight="600" fill="#111">Strom</text>
+  <text x="602" y="210" font-size="14" fill="#5a5850" text-anchor="end">rund 500 TWh</text>
+  <rect x="2" y="220" width="127" height="24" fill="#008300"/>
+  <path d="M131 220 h98 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-98 z" fill="#b0aea5"/>
+  <text x="2" y="262" font-size="14" font-weight="600" fill="#111">55 %</text>
+</svg>
+<figcaption>Erneuerbarer Anteil in den drei Energiefeldern, 2025. Die Balkenlänge entspricht der Größe des Felds (Jahresmengen gerundet). Das Feld mit dem höchsten grünen Anteil ist das kleinste. Daten: Umweltbundesamt, AG Energiebilanzen.</figcaption>
+</figure>
+
+Beim **Strom** decken die Erneuerbaren inzwischen gut 55 Prozent — ein realer Erfolg, von wenigen Prozent in den 1990er Jahren kommend, den man nicht kleinreden muss. Bei der **Wärme**, dem mit Abstand größten Feld, sind es 19 Prozent. Im **Verkehr** acht. Die Energiewende ist bisher vor allem eine Stromwende — und der Strom ist das kleinste der drei Felder.
+
+Die Wärme verdient dabei den genauesten Blick, denn sie ist der stille Riese: Rund zwei Drittel der Energie, die die deutsche Industrie verbraucht, ist Wärme — oft bei mehreren hundert Grad, Tag und Nacht, das ganze Jahr. Allein die industrielle Prozesswärme entspricht in ihrer Jahresmenge fast dem gesamten deutschen Stromverbrauch. Und der Verkehr fährt, von einem wachsenden, aber kleinen elektrischen Anteil abgesehen, nach wie vor mit Öl.
 
 Wer also hört, der Strom sei zu 55 oder bald zu 80 Prozent erneuerbar, sollte im Kopf ergänzen: Prozent wovon? Es ist der Anteil an einem Fünftel. Das macht das Erreichte nicht klein. Es macht die Aufgabe sichtbar.
 
@@ -27,9 +57,58 @@ Der beschlossene Weg für die anderen vier Fünftel heißt in weiten Teilen: Ele
 
 Die entlastende: Elektrifizierung heißt **nicht**, dass Deutschland künftig das Fünffache an Strom braucht. Elektrische Technik ist meist erheblich effizienter als die Verbrennung, die sie ersetzt. Eine Wärmepumpe macht aus einer Kilowattstunde Strom drei bis vier Kilowattstunden Wärme, weil sie den größten Teil aus der Umgebung schöpft. Ein Elektroauto braucht für dieselbe Strecke etwa ein Drittel der Energie eines Verbrenners. Und die Verluste der Kraftwerke, die heute Kohle und Gas zu Strom machen, entfallen gleich mit. Die großen Szenariostudien — von den Übertragungsnetzbetreibern bis zu den Forschungsinstituten — kommen deshalb für ein klimaneutrales Deutschland um 2045 auf einen Strombedarf von grob 1.000 Terawattstunden im Jahr, mit Bandbreiten von etwa 900 bis 1.300, je nachdem, wie viel Wasserstoff im Inland erzeugt wird. Das sind Modellrechnungen, keine Prognosen. Aber sie stimmen in der Größenordnung überein: gegenüber heute etwa eine **Verdopplung** — nicht mehr, und nicht weniger.
 
+<figure>
+<svg viewBox="0 0 660 254" role="img" aria-label="Balkendiagramm: Heutiger Gesamtenergieverbrauch rund 2.400 Terawattstunden. Strombedarf heute rund 500 Terawattstunden. Strombedarf in Szenarien für ein klimaneutrales 2045: 900 bis 1.300 Terawattstunden — etwa eine Verdopplung, aber weiterhin deutlich unter dem heutigen Gesamtverbrauch." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <rect x="2" y="8" width="14" height="14" rx="2" fill="#2a78d6"/>
+  <text x="22" y="20" font-size="14" fill="#5a5850">Strombedarf</text>
+  <rect x="150" y="8" width="14" height="14" rx="2" fill="#2a78d6" fill-opacity="0.12" stroke="#2a78d6" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="170" y="20" font-size="14" fill="#5a5850">Szenarien-Bandbreite</text>
+  <rect x="340" y="8" width="14" height="14" rx="2" fill="#b0aea5"/>
+  <text x="360" y="20" font-size="14" fill="#5a5850">gesamter Energieverbrauch</text>
+
+  <text x="2" y="62" font-size="15" font-weight="600" fill="#111">Energieverbrauch gesamt, heute</text>
+  <text x="602" y="62" font-size="14" fill="#5a5850" text-anchor="end">rund 2.400 TWh</text>
+  <path d="M2 72 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#b0aea5"/>
+
+  <text x="2" y="136" font-size="15" font-weight="600" fill="#111">Strombedarf heute</text>
+  <text x="602" y="136" font-size="14" fill="#5a5850" text-anchor="end">rund 500 TWh</text>
+  <path d="M2 146 h121 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-121 z" fill="#2a78d6"/>
+
+  <text x="2" y="210" font-size="15" font-weight="600" fill="#111">Strombedarf 2045, klimaneutral</text>
+  <text x="602" y="210" font-size="14" fill="#5a5850" text-anchor="end">Szenarien: 900–1.300 TWh</text>
+  <rect x="2" y="220" width="223" height="24" fill="#2a78d6"/>
+  <rect x="227" y="220" width="98" height="24" rx="2" fill="#2a78d6" fill-opacity="0.12" stroke="#2a78d6" stroke-width="1.5" stroke-dasharray="5 4"/>
+</svg>
+<figcaption>Die Verdopplung im Maßstab: Selbst der verdoppelte Strombedarf der Klimaneutralitäts-Szenarien bleibt weit unter dem heutigen Gesamtverbrauch — weil elektrische Technik effizienter ist als die Verbrennung, die sie ersetzt. Daten: AG Energiebilanzen; Szenarien: Übertragungsnetzbetreiber, Agora Energiewende u. a.</figcaption>
+</figure>
+
 Die ernüchternde: Diese Verdopplung muss **verlässlich** sein. An einem windstillen Dezemberabend laufen die Wärmepumpen des Landes gleichzeitig, die Solaranlagen liefern nichts, und die Industrie arbeitet durch die Nacht. Es genügt nicht, dass die Jahresmenge stimmt — sie muss in jeder einzelnen Stunde stimmen. Wer Heizungen und Fabriken an das Stromnetz hängt, verlagert die Verlässlichkeitsfrage dorthin; sie verschwindet nicht. Deshalb gehören zur Verdopplung auch Netze, Speicher und steuerbare Kraftwerke für die dunklen Wochen — und deshalb bleibt verlässliche Leistung rund um die Uhr eine eigene Aufgabe neben dem Ausbau von Wind und Sonne, nicht sein Nebenprodukt.
 
 Dazu kommt der Teil, der sich nur schwer elektrifizieren lässt: Rund die Hälfte der industriellen Prozesswärme fällt bei über tausend Grad an — im Hochofen, im Zementdrehrohr, in der Glasschmelze. Beim Zement stammt der größere Teil des CO₂ ohnehin aus der Kalkchemie selbst, beim Stahl wird Wasserstoff als Reaktionspartner gebraucht, nicht als Brennstoff. Zugleich wächst der elektrische Werkzeugkasten schneller, als viele annehmen: Großwärmepumpen liefern inzwischen Prozesswärme bis etwa 200 Grad, Elektrodenkessel erzeugen Dampf, und in Ludwigshafen läuft seit 2024 die weltweit erste Demonstrationsanlage eines elektrisch beheizten Steamcrackers bei rund 850 Grad. Für einen großen Teil der Wärme ist die elektrische Antwort also da oder in Sicht — bezahlbaren Strom vorausgesetzt, was auf die Standortfrage zurückführt, um die es im Konzept [Industriepolitik](industriepolitik.md) geht.
+
+<figure>
+<svg viewBox="0 0 660 130" role="img" aria-label="Gestapelter Balken: Industrielle Prozesswärme nach Temperaturband. Bis 100 Grad: 10 Prozent. 100 bis 500 Grad: 15 Prozent. 500 bis 1.000 Grad: 25 Prozent. Über 1.000 Grad: 50 Prozent. Das erste Viertel ist heute gut elektrifizierbar; die Hälfte über 1.000 Grad ist der härteste Teil." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="13.5" fill="#5a5850">heute gut elektrifizierbar — rund ein Viertel</text>
+  <path d="M2 44 v6 M2 44 h150 M152 44 v6" stroke="#898781" stroke-width="1" fill="none"/>
+  <text x="602" y="30" font-size="13.5" fill="#5a5850" text-anchor="end">die härteste Hälfte: über 1.000 °C</text>
+  <path d="M305 44 v6 M305 44 h297 M602 44 v6" stroke="#898781" stroke-width="1" fill="none"/>
+
+  <rect x="2" y="56" width="59" height="24" fill="#ee9468"/>
+  <rect x="63" y="56" width="89" height="24" fill="#e2662a"/>
+  <rect x="154" y="56" width="149" height="24" fill="#bf4f1c"/>
+  <path d="M305 56 h293 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-293 z" fill="#8f3a14"/>
+
+  <text x="2" y="98" font-size="13" fill="#5a5850">bis 100 °C</text>
+  <text x="107" y="98" font-size="13" fill="#5a5850" text-anchor="middle">100–500</text>
+  <text x="228" y="98" font-size="13" fill="#5a5850" text-anchor="middle">500–1.000</text>
+  <text x="453" y="98" font-size="13" fill="#5a5850" text-anchor="middle">über 1.000 °C</text>
+  <text x="31" y="118" font-size="14" font-weight="600" fill="#111">10 %</text>
+  <text x="107" y="118" font-size="14" font-weight="600" fill="#111" text-anchor="middle">15 %</text>
+  <text x="228" y="118" font-size="14" font-weight="600" fill="#111" text-anchor="middle">25 %</text>
+  <text x="453" y="118" font-size="14" font-weight="600" fill="#111" text-anchor="middle">50 %</text>
+</svg>
+<figcaption>Industrielle Prozesswärme nach Temperaturband — je dunkler, desto heißer. Großwärmepumpen reichen heute bis etwa 200 °C, Elektrodenkessel liefern Dampf, der elektrische Steamcracker (rund 850 °C) läuft als Demonstration; Reaktor-Dampf läge bei etwa 550 °C. Erhebungsbasis 2018, gerundet — die Größenordnung gilt als robust, die exakten Anteile nicht. Quelle: Hamburg Institut für den BEE.</figcaption>
+</figure>
 
 ## Ein unbequemer Besitz
 
