@@ -3,13 +3,13 @@ layout: page
 title: Klimaschutz
 ---
 
-# Klimaschutz aus systemischer Sicht — im europäischen und internationalen Kontext
+# Klimaschutz aus systemischer Sicht
 
-Eine Vorbemerkung, damit klar ist, wovon diese Seite handelt — und wovon nicht. Sie setzt den wissenschaftlichen Befund voraus: Der menschengemachte Klimawandel ist real und solide belegt. Worum es hier geht, ist eine andere, viel zu selten gestellte Frage: **ob unsere Klimapolitik das erreicht, was sie erreichen will.** Über die Physik muss man nicht streiten. Über die Wirksamkeit sollte man — gerade, wenn einem das Ergebnis wichtig ist.
+Eine Vorbemerkung: Diese Seite setzt den wissenschaftlichen Befund voraus — der menschengemachte Klimawandel ist real und solide belegt. Ihre Frage ist eine andere, viel zu selten gestellte: **ob unsere Klimapolitik erreicht, was sie erreichen will.** Über die Physik muss man nicht streiten. Über die Wirksamkeit sollte man — gerade, wem das Ergebnis wichtig ist.
 
 ## Die Atmosphäre führt kein Länderkonto
 
-Deutschland verursacht knapp zwei Prozent der weltweiten Emissionen, die ganze Europäische Union unter sieben. Das heißt nüchtern: Selbst ein vollständig klimaneutrales Deutschland verändert die Weltsumme kaum — *wenn* seine Anstrengung nichts auslöst, das über Deutschland hinauswirkt.
+Deutschland verursacht knapp zwei Prozent der weltweiten Emissionen, die ganze EU unter sieben:
 
 <figure>
 <svg viewBox="0 0 660 128" role="img" aria-label="Gestapelter Balken: Anteile an den weltweiten Treibhausgas-Emissionen. Deutschland knapp 2 Prozent, übrige EU rund 5 Prozent, Rest der Welt über 93 Prozent. Allein Chinas Emissionshandel, aufgebaut nach EU-Vorbild, erfasst rund 15 Prozent." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
@@ -26,67 +26,65 @@ Deutschland verursacht knapp zwei Prozent der weltweiten Emissionen, die ganze E
   <rect x="400" y="106" width="12" height="12" rx="2" fill="#b0aea5"/>
   <text x="418" y="116" font-size="13.5" fill="#5a5850">Rest der Welt — über 93 %</text>
 </svg>
-<figcaption>Der Maßstab dieser Seite in einem Balken: Selbst ein vollständig klimaneutrales Deutschland veränderte die Weltsumme kaum. Der Hebel liegt in dem, was über die eigene Bilanz hinauswirkt — Kostenkurven und Institutionen. Anteile gerundet.</figcaption>
+<figcaption>Selbst ein vollständig klimaneutrales Deutschland veränderte die Weltsumme kaum. Der Hebel liegt in dem, was über die eigene Bilanz hinauswirkt — Kostenkurven und Institutionen. Anteile gerundet.</figcaption>
 </figure>
 
-Daraus folgt der Maßstab dieser Seite, und er ist unbequemer als die übliche Debatte: Nicht „Wie schnell sinkt unsere Bilanz?", sondern **„Wie verändert unser Handeln die Weltsumme?"** Das klingt nach einem kleinen Unterschied. Es ist der ganze Unterschied — denn dem Klima ist gleichgültig, in welchem Land ein Molekül eingespart oder ausgestoßen wird.
+Daraus folgt der Maßstab dieser Seite, und er ist unbequemer als die übliche Debatte: nicht „Wie schnell sinkt unsere Bilanz?", sondern **„Wie verändert unser Handeln die Weltsumme?"** Dem Klima ist gleichgültig, in welchem Land ein Molekül eingespart oder ausgestoßen wird.
 
-## Was unsicher bleibt — und was exakt sein muss
+## Bandbreiten und Exaktheit
 
-Wie schnell sich das Klima erwärmt, welche Region wie stark betroffen sein wird, welches Szenario eintritt — darauf gibt die Wissenschaft ehrliche Antworten: Bandbreiten. Das ist kein Makel, sondern die Natur eines komplexen Systems; wer Punktprognosen verspricht, verspricht zu viel.
+Wie schnell sich das Klima erwärmt und welche Region wie stark betroffen sein wird, beantwortet die Wissenschaft ehrlich: in Bandbreiten. Daraus werden zwei Fehlschlüsse gezogen — „dann wissen wir nichts, also lassen wir es" und „dann ist es dringend, also ist jede Maßnahme richtig". Beide übersehen dieselbe Asymmetrie: **Über Szenarien kann man nur in Bandbreiten sprechen — über Maßnahmen kann und muss man exakt sein.** Ob eine Maßnahme unterm Strich CO₂ einspart, ist eine überprüfbare Frage. Genau diese Überprüfung fehlt in der Klimapolitik erstaunlich oft — und ihr Fehlen ist, anders als die Szenario-Unsicherheit, vermeidbar.
 
-Aber aus der Unsicherheit über Szenarien wird oft ein doppelter Fehlschluss gezogen. Die einen folgern: „Dann wissen wir ja nichts, also lassen wir es." Die anderen: „Dann ist es dringend, also ist jede Maßnahme richtig." Beide übersehen dieselbe Asymmetrie: **Über Szenarien kann man nur in Bandbreiten sprechen — über Maßnahmen kann und muss man exakt sein.** Ob eine konkrete Maßnahme unter Berücksichtigung aller systemischen Effekte wirklich CO₂ einspart, ist eine überprüfbare Frage nach wissenschaftlichen Standards. Genau diese Überprüfung fehlt in der Klimapolitik erstaunlich oft — und ihr Fehlen ist, anders als die Szenario-Unsicherheit, vollständig vermeidbar.
+## Die Prüffrage
 
-## Die Prüffrage — und was geschieht, wenn man sie auslässt
+Sie lautet: **Senkt diese Maßnahme die Weltsumme der Emissionen — oder verschiebt sie sie nur?** Drei dokumentierte Fälle zeigen, was geschieht, wenn man sie auslässt. Waldschutz-Zertifikate, mit denen jahrelang „Klimaneutralität" gekauft wurde — Untersuchungen von 2023, zuletzt in der Fachzeitschrift *Science*, fanden, dass nur ein kleiner Bruchteil reale, zusätzliche Einsparungen repräsentierte. Biodiesel aus Palmöl, über Jahre als Klimaschutz gefördert — bis die indirekten Landnutzungseffekte eingerechnet wurden: unterm Strich klimaschädlicher als fossiler Diesel; die EU steigt bis 2030 aus. Und der Wasserbett-Effekt: Wer im gedeckelten Emissionshandel ein Kraftwerk zusätzlich abschaltet, macht Zertifikate frei, die anderswo verbraucht werden — jahrelang wurde national „zusätzlich" abgeschaltet, ohne sie zu löschen.
 
-Die Prüffrage lautet: **Senkt diese Maßnahme die Weltsumme der Emissionen — oder verschiebt sie sie nur, auf dem Papier oder über Märkte?** Dass das keine akademische Spitzfindigkeit ist, zeigen drei dokumentierte Fälle:
+Die Ökonomie kennt zwei weitere Verschiebungskanäle: Carbon Leakage (real, in gemessener Größe moderat) und das Grüne Paradoxon (theoretisch schlüssig, empirisch meist nicht bestätigt — eine Warnung, keine Prognose). Alle fünf sind Varianten desselben Fehlers: **die eigene Bilanz mit der Weltwirkung zu verwechseln.** Wer sich der Prüffrage nicht stellt, misst Tätigkeit statt Wirkung — und verbrennt das Knappste, was Klimapolitik hat: Vertrauen.
 
-**Waldschutz-Zertifikate.** Jahrelang kauften Konzerne und Verbraucher „Klimaneutralität" über Zertifikate, die den Schutz von Regenwald bescheinigten. Untersuchungen von 2023 — journalistisch und anschließend in der Fachzeitschrift *Science* — ergaben, dass nur ein kleiner Bruchteil der geprüften Zertifikate reale, zusätzliche Einsparungen repräsentierte; die Bedrohung der Wälder war im Schnitt um ein Mehrfaches überzeichnet worden. Millionen Tonnen wurden mit Phantomen „kompensiert".
+## Der Kanal in Gegenrichtung
 
-**Biodiesel aus Palmöl.** Über Jahre als Klimaschutz gefördert und beigemischt — bis von der EU beauftragte Untersuchungen die indirekten Landnutzungseffekte einrechneten: Für Plantagen weicht Regenwald, und unter dem Strich ist Palmöl-Diesel *klimaschädlicher als fossiler Diesel*, nach diesen Rechnungen um ein Mehrfaches. Die EU stuft ihn inzwischen als hochriskant ein und steigt bis 2030 aus. Die Maßnahme bestand jede politische Prüfung — nur die systemische nicht.
+Es gibt einen Weg über die Grenzen, der in die entgegengesetzte Richtung wirkt: Auch Technologie kennt keine Grenzen.
 
-**Der Wasserbett-Effekt.** Wer innerhalb eines gedeckelten Emissionshandels ein Kraftwerk zusätzlich abschaltet, macht Zertifikate frei, die anderswo verbraucht werden — die Gesamtmenge bleibt gleich, wie bei einem Wasserbett, das man an einer Stelle eindrückt. Jahrelang wurde national „zusätzlich" abgeschaltet, ohne die freiwerdenden Zertifikate zu löschen. Inzwischen ist das Löschen möglich — aber nur, weil jemand nachgerechnet hat.
+<figure>
+<svg viewBox="0 0 660 148" role="img" aria-label="Balkendiagramm: Stromgestehungskosten Photovoltaik weltweit. 2010 rund 40 US-Cent je Kilowattstunde, heute unter 5." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="15" font-weight="600" fill="#111">2010</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">rund 40 US-Cent je Kilowattstunde</text>
+  <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#008300"/>
+  <text x="2" y="104" font-size="15" font-weight="600" fill="#111">Heute</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">unter 5</text>
+  <path d="M2 114 h71 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-71 z" fill="#008300"/>
+</svg>
+<figcaption>Stromgestehungskosten der Photovoltaik weltweit, gerundet — rund 90 Prozent günstiger seit 2010 (IRENA). Angeschoben von den Ländern, die früh und teuer kauften; Deutschland vorneweg.</figcaption>
+</figure>
 
-Die Ökonomie kennt zwei weitere Verschiebungskanäle, die in dieselbe Prüfung gehören: *Carbon Leakage* — sinkt hier die Nachfrage nach fossiler Energie, sinken Weltmarktpreise, und andere kaufen mehr (real, in gemessener Größe moderat) — und das sogenannte Grüne Paradoxon, wonach Förderländer angekündigte Ausstiege mit beschleunigter Förderung beantworten könnten (theoretisch schlüssig, empirisch bislang meist nicht bestätigt; eine Warnung, keine Prognose). Alle fünf Fälle sind Varianten desselben Fehlers: **die eigene Bilanz mit der Weltwirkung zu verwechseln.** Eine Klimapolitik, die sich der Prüffrage nicht stellt, misst ihre Tätigkeit statt ihrer Wirkung — und verbrennt dabei das Knappste, was sie hat: Vertrauen.
-
-## Der Effekt in Gegenrichtung — und warum er die eigentliche Chance ist
-
-Die Verschiebungs-Effekte beschreiben, wie Einsparungen über Märkte versickern können. Es gibt aber einen Kanal über die Grenzen, der in die entgegengesetzte Richtung wirkt — und der erklärt, warum nationale Klimapolitik trotz allem Weltwirkung haben kann: **Auch Technologie kennt keine Grenzen.**
-
-Solarstrom ist seit 2010 um rund neunzig Prozent billiger geworden — von etwa vierzig auf unter fünf US-Cent pro Kilowattstunde. Dahinter steht eine Lernkurve: Mit jeder Verdopplung der weltweit installierten Menge fielen die Modulpreise um rund ein Fünftel. Diese Kurve wurde von den Ländern angeschoben, die früh und teuer eingekauft haben — Deutschland vorneweg. Man kann über die Kosten der deutschen Solarförderung streiten; ihre Weltwirkung ist unbestreitbar: Sie hat mitgeholfen, saubere Energie so billig zu machen, dass sie heute in Indien, Chile und Texas aus reinem Eigeninteresse gebaut wird.
-
-Das ist der Schlüssel zur ganzen Seite: **Ein Land mit zwei Prozent Emissionsanteil kann die Weltsumme kaum durch eigenes Sparen senken — aber es kann Dinge billig machen, und billige Dinge werden weltweit gekauft.** Kohlekraftwerke verschwinden nicht durch Appelle. Sie verschwinden, wenn etwas Besseres günstiger ist. Genau deshalb gehören die anderen Konzepte dieser Seiten zum Klimaschutz, auch wo sie nicht so heißen: [verlässliche Wärme und Strom ohne CO₂](energie.html) für die Industrie, und [grüne Industrialisierung am Mittelmeer](mittelmeer.html), die klimafreundliche Produktion dorthin bringt, wo die Sonne am billigsten ist.
+Hinter diesem Absturz steht eine Lernkurve: Mit jeder Verdopplung der weltweit installierten Menge fielen die Modulpreise um rund ein Fünftel. Man kann über die Kosten der deutschen Solarförderung streiten; ihre Weltwirkung ist unbestreitbar: Sie half, saubere Energie so billig zu machen, dass Indien, Chile und Texas sie heute aus Eigeninteresse bauen. Das ist der Schlüssel dieser Seite: **Ein Zwei-Prozent-Land senkt die Weltsumme kaum durch eigenes Sparen — aber es kann Dinge billig machen, und billige Dinge werden weltweit gekauft.** Deshalb gehören [verlässliche Energie ohne CO₂](energie.md) und die [Industrialisierung am Mittelmeer](mittelmeer.md) zum Klimaschutz, auch wo sie nicht so heißen.
 
 ## Drei Bausteine, die auf die Weltsumme wirken
 
-**Erstens: Bündnisse mit gemeinsamem Preis.** Das Kernproblem des Klimaschutzes ist das Trittbrettfahren — jeder profitiert von den Anstrengungen der anderen, ob er mitmacht oder nicht. Die Antwort der Forschung heißt Klimaclub: eine Gruppe von Staaten mit gemeinsamem CO₂-Preis, Vorteilen für Mitglieder und einem Grenzausgleich gegenüber Nichtmitgliedern — Beitritt wird attraktiver als Fernbleiben. Das ist keine Theorie mehr: Ein solcher Club wurde 2022 auf deutsche Initiative gegründet und arbeitet heute mit Dutzenden Mitgliedstaaten an der Dekarbonisierung der Industrie. Und die wichtigste Nachricht dieser Art ist kaum bekannt: **Der größte Emissionshandel der Welt läuft heute in China** — nach europäischem Vorbild aufgebaut, 2025 auf Stahl, Zement und Aluminium erweitert, inzwischen rund acht Milliarden Tonnen und damit etwa fünfzehn Prozent der Weltemissionen umfassend. Europas wirksamster Klimaexport war bisher kein Gerät, sondern eine Institution.
+**Bündnisse mit gemeinsamem Preis.** Gegen das Trittbrettfahrer-Problem: der Klimaclub — gemeinsamer CO₂-Preis, Vorteile für Mitglieder, Grenzausgleich nach außen. 2022 auf deutsche Initiative gegründet. Die kaum bekannte größte Nachricht dazu: **Der größte Emissionshandel der Welt läuft heute in China** — nach europäischem Vorbild aufgebaut, 2025 auf Stahl, Zement und Aluminium erweitert, rund fünfzehn Prozent der Weltemissionen. Europas wirksamster Klimaexport war bisher kein Gerät, sondern eine Institution.
 
-**Zweitens: der Grenzausgleich — als Einladung gebaut.** Seit diesem Jahr erhebt Europa schrittweise eine CO₂-Grenzabgabe auf Importe, die mit Kohle und Gas produziert wurden. Richtig eingesetzt ist sie beides zugleich: Schutz für die eigene Industrie vor Verlagerung — und ein Beitrittsanreiz für alle, die abgabenfrei in den größten Binnenmarkt der Welt verkaufen wollen. Wie aus dieser Abgabe eine Aufstiegsleiter statt einer Strafmauer wird, beschreibt das [Mittelmeer-Konzept](mittelmeer.html) im Detail.
+**Der Grenzausgleich, als Einladung gebaut.** Die CO₂-Grenzabgabe schützt die eigene Industrie vor Verlagerung — und lädt zugleich ein: Wer sauber produziert, verkauft abgabenfrei in den größten Binnenmarkt der Welt. Wie daraus eine Aufstiegsleiter statt einer Strafmauer wird, zeigt das [Mittelmeer-Konzept](mittelmeer.md).
 
-**Drittens: Senken.** Selbst bei bestem Verlauf bleiben Emissionen, die sich kaum vermeiden lassen — Zement, Teile der Landwirtschaft und Industrie. Jeder seriöse Pfad zur Klimaneutralität enthält deshalb das Abscheiden und dauerhafte Speichern von CO₂ sowie Aufforstung. Auch das ist inzwischen Wirklichkeit statt Theorie: Vor der norwegischen Küste wurde im August 2025 erstmals CO₂ eines Zementwerks dauerhaft unter dem Meeresboden eingelagert; der Ausbau auf über fünf Millionen Tonnen jährlich ist beschlossen. Deutschland hat die Speicherung unter der eigenen Nordsee Ende 2025 rechtlich ermöglicht; der Rahmen für Exporte nach Norwegen ist in Arbeit. Zur Ehrlichkeit gehört die Größenordnung: Diese Anlagen speichern Millionen Tonnen — Deutschland emittiert Hunderte Millionen. Senken sind die letzte Meile, nicht der Weg.
+**Senken.** Für die kaum vermeidbaren Reste — Zement, Teile von Landwirtschaft und Industrie — braucht jeder seriöse Pfad Abscheidung und Speicherung von CO₂ sowie Aufforstung. Seit August 2025 lagert vor Norwegen erstmals CO₂ eines Zementwerks dauerhaft unter dem Meeresboden; Deutschland hat die Speicherung unter der Nordsee Ende 2025 rechtlich ermöglicht. Ehrlich zur Größenordnung: Diese Anlagen speichern Millionen Tonnen — Deutschland emittiert Hunderte Millionen. Senken sind die letzte Meile, nicht der Weg.
 
 ## Was das für Deutschland heißt
 
-Aus alldem folgt eine Rollenbeschreibung, die anspruchsvoller ist als „Vorbild sein" und wirksamer als „Verzicht üben":
+1. **Die Prüffrage institutionalisieren:** vor jedem Beschluss eine veröffentlichte CO₂-Wirkungsrechnung einschließlich systemischer Effekte, danach die Kontrolle am tatsächlichen Ergebnis.
+2. **Billig machen, was sauber ist:** Erneuerbare, Speicher, Prozesswärme- und Reaktortechnik, Wasserstoffpartnerschaften — Deutschlands größter Hebel sind Kostenkurven, nicht Bilanzkosmetik.
+3. **Architektur bauen:** den Klimaclub vertiefen, Emissionshandelssysteme verknüpfen, den Grenzausgleich mit Partnerschaften verbinden.
+4. **Senken ermöglichen:** Speicherrecht, Transport, Partnerschaften mit Norwegen und Dänemark — nüchtern, ohne Heilsversprechen.
 
-1. **Die Prüffrage institutionalisieren.** Jede klimapolitische Maßnahme erhält vor dem Beschluss eine veröffentlichte CO₂-Wirkungsrechnung nach wissenschaftlichen Standards — systemische Effekte eingeschlossen — und nach der Einführung eine Überprüfung am tatsächlichen Ergebnis. Was diese Prüfung nicht besteht, ist Symbolik auf Kosten der Glaubwürdigkeit.
-2. **Billig machen, was sauber ist.** Erneuerbare und Speicher weitertreiben, Prozesswärme- und neue Reaktortechnik erforschen, Wasserstoffpartnerschaften aufbauen — Deutschlands größter Klimahebel sind Kostenkurven, nicht Bilanzkosmetik.
-3. **Architektur bauen.** Den Klimaclub vertiefen, Emissionshandelssysteme verknüpfen, den Grenzausgleich mit Partnerschaften statt nur mit Abgaben verbinden.
-4. **Senken ermöglichen.** Speicherrecht, Transportinfrastruktur, Partnerschaften mit Norwegen und Dänemark — nüchtern, ohne Heilsversprechen.
-
-Und eines bleibt dabei wahr: Die eigene Emissionsminderung ist nicht überflüssig — sie ist die Eintrittskarte. Wer anderen einen Club mit gemeinsamen Regeln vorschlägt, muss die Regeln selbst erfüllen. Aber sie ist Mittel — für Glaubwürdigkeit und Kostenkurven —, nicht schon die Rettung der Welt. Die Verwechslung von beidem ist der teuerste Denkfehler der deutschen Klimadebatte.
+Die eigene Emissionsminderung bleibt dabei die Eintrittskarte: Wer anderen einen Club mit Regeln vorschlägt, muss sie selbst erfüllen. Aber sie ist Mittel — für Glaubwürdigkeit und Kostenkurven —, nicht schon die Rettung der Welt. Die Verwechslung von beidem ist der teuerste Denkfehler der deutschen Klimadebatte.
 
 ## Der Ton, der Skeptiker überzeugt
 
-Ein letzter Punkt, der kein Detail ist, sondern die Bedingung für alles andere. Wer vom Klimaschutz bereits überzeugt ist, braucht diese Seite nicht. Gewonnen werden muss, wer zweifelt — und Zweifler überzeugt man nicht mit Dringlichkeitsrhetorik, sondern mit Nachrechenbarkeit. Jede Maßnahme, die verpufft — die Phantom-Zertifikate, der Palmöl-Diesel —, bestätigt Skeptiker wirksamer, als jede Kampagne sie je widerlegen könnte.
-
-Deshalb hält diese Seite bewussten Abstand zu jeder Form von Aktivismus — nicht, weil das Anliegen unwichtig wäre, sondern weil es zu wichtig ist, um seine Glaubwürdigkeit zu riskieren. Klimapolitik, die zur Bekenntnisfrage wird, gewinnt keinen Zweifler mehr hinzu. Klimaschutz gewinnt nicht, wenn er lauter wird. Er gewinnt, wenn er nachrechenbar wird.
+Gewonnen werden muss, wer zweifelt — und Zweifler überzeugt man nicht mit Dringlichkeitsrhetorik, sondern mit Nachrechenbarkeit. Jede Maßnahme, die verpufft, bestätigt Skeptiker wirksamer, als jede Kampagne sie widerlegen könnte. Deshalb hält diese Seite bewussten Abstand zu jeder Form von Aktivismus: Klimaschutz gewinnt nicht, wenn er lauter wird. Er gewinnt, wenn er nachrechenbar wird.
 
 ## Ehrlich gesagt
 
-Die ökonomischen Verschiebungs-Effekte sind unterschiedlich gut belegt; diese Seite kennzeichnet den Unterschied und verwendet sie als Prüffragen, nicht als Prognosen. Klimaclubs hängen am Willen der Großmächte, und der schwankt: Die Vereinigten Staaten haben das Pariser Abkommen erneut verlassen, China ist Vorlagen-Übernehmer, aber kein Clubmitglied — internationale Kooperation in einer Ära der Blockbildung ist die größte einzelne Unsicherheit dieses Konzepts. Der Grenzausgleich kann als Protektionismus gelesen werden und Handelskonflikte auslösen. CO₂-Speicherung hat Akzeptanz- und Kostenprobleme und lädt zum Missbrauch als Ausrede ein.
+Die Verschiebungs-Effekte sind unterschiedlich gut belegt; diese Seite verwendet sie als Prüffragen, nicht als Prognosen. Klimaclubs hängen am Willen der Großmächte — die USA haben das Pariser Abkommen erneut verlassen, China übernimmt Vorlagen, ist aber kein Clubmitglied; Kooperation in einer Ära der Blockbildung ist die größte Unsicherheit dieses Konzepts. Der Grenzausgleich kann Handelskonflikte auslösen. CO₂-Speicherung hat Akzeptanz- und Kostenprobleme und lädt zum Missbrauch als Ausrede ein.
 
-Und die ehrlichste Zeile zum Schluss: Deutschland kann das Klima nicht retten. Es kann aber entscheiden, ob seine erheblichen Anstrengungen an der Weltsumme arbeiten — oder an der eigenen Statistik. Das ist keine kleinere Aufgabe. Es ist die eigentliche.
+Und die ehrlichste Zeile zum Schluss: Deutschland kann das Klima nicht retten. Es kann entscheiden, ob seine erheblichen Anstrengungen an der Weltsumme arbeiten — oder an der eigenen Statistik. Das ist keine kleinere Aufgabe. Es ist die eigentliche.
 
 ---
 

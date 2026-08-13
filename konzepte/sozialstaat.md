@@ -7,55 +7,56 @@ title: Sozialstaat
 
 ## Ein Leben, zwei Rollen
 
-Stellen Sie sich ein einzelnes Leben vor, von außen betrachtet, nur mit Blick auf Geld.
+Von außen betrachtet, nur mit Blick auf Geld, hat jedes Leben drei Phasen. Zwanzig Jahre getragen werden: Geburtsklinik, Schule, vielleicht Universität. Vier Jahrzehnte tragen: Steuern und Beiträge, mehr als man zurückerhält. Am Ende wieder getragen werden: Rente, Pflege — der Großteil der Gesundheitskosten eines Lebens fällt in die letzten Jahre.
 
-In den ersten zwanzig Jahren wird dieser Mensch getragen: Geburtsklinik, Kindergarten, Schule, vielleicht Universität — bezahlt ganz überwiegend von anderen. Dann folgen vier Jahrzehnte, in denen er trägt: Steuern und Beiträge, Monat für Monat, mehr als er in dieser Zeit an Leistungen zurückerhält. Und am Ende wird er wieder getragen: Rente, Pflege, der größte Teil der Gesundheitskosten eines Lebens fällt in die letzten Jahre.
-
-Jeder Mensch ist in seinem Leben beides — Empfänger und Zahler. Wer den Sozialstaat verstehen will, muss mit dieser einfachen Beobachtung anfangen, denn sie erklärt fast alles Weitere.
+Jeder Mensch ist also beides, Empfänger und Zahler — nur nicht gleichzeitig. Diese Beobachtung erklärt fast alles Weitere.
 
 ## Das Förderband
 
-Der deutsche Sozialstaat funktioniert nicht wie ein Sparbuch, auf das jeder einzahlt und später sein eigenes Geld abhebt. Er funktioniert wie ein Förderband zwischen den Lebensphasen: Die Menschen, die gerade im Arbeitsleben stehen, finanzieren gleichzeitig die Kindheit der Jungen und das Alter der Älteren. Ihre eigenen Beiträge werden nicht angespart — sie werden im selben Monat wieder ausgegeben.
+Der Sozialstaat ist kein Sparbuch, auf das jeder einzahlt und später sein eigenes Geld abhebt. Er ist ein Förderband zwischen den Lebensphasen: Die arbeitende Mitte finanziert gleichzeitig die Kindheit der Jungen und das Alter der Älteren; ihre Beiträge werden im selben Monat wieder ausgegeben. Das war eine bewusste Entscheidung aus einer Zeit, in der das Band gut besetzt war.
 
-Das ist keine Fehlkonstruktion, sondern eine bewusste Entscheidung aus einer Zeit, in der dieses Band gut besetzt war. Solange viele in der Mitte stehen und wenige an den Enden, läuft es fast von selbst.
+Die entscheidende Frage lautet deshalb nicht: „Wer bekommt zu viel?" Sondern: **Wie viele stehen gerade auf dem tragenden Teil des Bandes — und wie viele werden getragen?**
 
-Deshalb ist die entscheidende Frage für den Sozialstaat nicht: „Wer bekommt zu viel?" Sondern: **Wie viele Menschen stehen gerade auf dem tragenden Teil des Bandes — und wie viele werden gerade getragen?**
+## Wer trägt
 
-## Wer trägt zu einem gegebenen Zeitpunkt?
+Von 84 Millionen Einwohnern sind rund 46 Millionen erwerbstätig. Auch innerhalb dieser Gruppe ist die Last ungleich verteilt: Nach Rechnungen des Instituts der deutschen Wirtschaft zahlt nur die einkommensstärkere Hälfte der Haushalte unterm Strich mehr ein, als sie an Geldleistungen erhält; mehr als die Hälfte der Einkommensteuer stammt von den oberen zehn Prozent.
 
-Deutschland hat rund 84 Millionen Einwohner. Etwa 46 Millionen davon sind erwerbstätig. Schon diese erste Zahl zeigt: Die Hälfte der Bevölkerung steht überhaupt nicht im Erwerbsleben — Kinder, Rentner, Menschen, die aus guten oder weniger guten Gründen nicht arbeiten.
-
-Aber auch innerhalb der Erwerbstätigen ist die Last sehr ungleich verteilt. Untersuchungen des Instituts der deutschen Wirtschaft zeigen: Rechnet man Steuern und Abgaben gegen die empfangenen Geldleistungen auf, zahlt nur die einkommensstärkere Hälfte der Haushalte unterm Strich mehr ein, als sie herausbekommt. Die obersten zehn Prozent trugen dabei zuletzt pro Haushalt einige zehntausend Euro im Jahr mehr bei, als sie an Leistungen erhielten — und mehr als die Hälfte der gesamten Einkommensteuer stammt von den oberen zehn Prozent der Steuerzahler.
-
-Im Netz kursieren Zuspitzungen dieser Beobachtung — etwa die Behauptung, „nur 15 Millionen Menschen" trügen den gesamten Staat, weil man neben den Empfängern auch noch den kompletten öffentlichen Dienst herausrechnen müsse. Diese Rechnung hält einer Prüfung nicht stand: Sie beruht auf überhöhten Zahlen und behandelt Lehrerinnen, Polizisten und Pflegekräfte im Staatsdienst, als leisteten sie nichts — dabei erbringen sie reale Arbeit, ohne die keine Fabrik und kein Büro funktionieren würde, und zahlen selbst Steuern und Abgaben. Wie groß die Gruppe der Netto-Einzahler genau ist, hängt stark davon ab, was man mitzählt: nur Geldleistungen oder auch Schulen, Straßen und Sicherheit? Nur ein Jahr oder ein ganzes Leben? Je nach Abgrenzung kommen seriöse Rechnungen zu deutlich unterschiedlichen Ergebnissen.
-
-Die ehrliche Zusammenfassung lautet: **Die genaue Zahl ist umstritten — die Struktur ist es nicht.** Eine Minderheit der Bevölkerung, im Kern die arbeitende Mitte und die oberen Einkommen, finanziert zu jedem Zeitpunkt den weit überwiegenden Teil des Systems. Das ist kein Skandal, sondern die Bauweise des Förderbands: Die meisten von uns waren schon auf der getragenen Seite und werden es wieder sein.
+Die im Netz kursierende Zuspitzung, „nur 15 Millionen" trügen den ganzen Staat, hält einer Prüfung nicht stand — sie rechnet den öffentlichen Dienst heraus, als leisteten Lehrerinnen, Polizisten und Pflegekräfte nichts. Ehrlich ist: Die genaue Zahl der Nettozahler hängt von der Abgrenzung ab und ist umstritten — **die Struktur ist es nicht.** Eine Minderheit finanziert zu jedem Zeitpunkt den überwiegenden Teil des Systems. Das ist kein Skandal, sondern die Bauweise des Förderbands: Fast jeder war schon auf der getragenen Seite und wird es wieder sein.
 
 ## Warum sich die Rechnung verschiebt
 
-Beunruhigend ist nicht die Momentaufnahme. Beunruhigend ist die Richtung.
+Beunruhigend ist nicht die Momentaufnahme, sondern die Richtung:
 
-In den frühen 1960er Jahren kamen auf einen Rentner etwa sechs Beitragszahler. Heute sind es noch gut zwei. In den kommenden zehn Jahren gehen die geburtenstärksten Jahrgänge der deutschen Geschichte in Rente — sie wechseln vom tragenden auf den getragenen Teil des Bandes, und die nachrückenden Jahrgänge sind erheblich kleiner. Das ist keine Prognose, die eintreffen kann oder nicht: Diese Menschen sind alle schon geboren. Man kann im Geburtenregister nachlesen, was auf das Förderband zukommt.
+<figure>
+<svg viewBox="0 0 660 172" role="img" aria-label="Balkendiagramm: Beitragszahler je Rentner in der gesetzlichen Rente. Anfang der 1960er Jahre rund sechs, heute gut zwei." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+  <text x="2" y="30" font-size="15" font-weight="600" fill="#111">Anfang der 1960er</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">rund 6 Beitragszahler je Rentner</text>
+  <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#2a78d6"/>
+  <text x="2" y="104" font-size="15" font-weight="600" fill="#111">Heute</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">gut 2</text>
+  <path d="M2 114 h206 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-206 z" fill="#2a78d6"/>
+  <text x="2" y="162" font-size="14" font-weight="600" fill="#111">Und die geburtenstärksten Jahrgänge wechseln gerade die Seite — Richtung eins zu eins.</text>
+</svg>
+<figcaption>Beitragszahler je Rentner in der gesetzlichen Rente (gerundet). Alle, die dieses Verhältnis in den nächsten zwanzig Jahren bestimmen, sind bereits geboren. Daten: Deutsche Rentenversicherung.</figcaption>
+</figure>
 
-Ein System, das gebaut wurde, als sechs trugen und einer getragen wurde, muss anders aussehen, wenn sich das Verhältnis Richtung eins zu eins bewegt. Wer das ausspricht, greift niemanden an — weder die Älteren, die das System jahrzehntelang getragen haben, noch die Jüngeren, die es jetzt tragen. Er beschreibt eine Rechenaufgabe, die sich nicht dadurch löst, dass man sie nicht anschaut.
+In den kommenden zehn Jahren wechseln die geburtenstärksten Jahrgänge der deutschen Geschichte vom tragenden auf den getragenen Teil des Bandes; die nachrückenden Jahrgänge sind deutlich kleiner. Das ist keine Prognose, die eintreffen kann oder nicht — alle Beteiligten sind geboren. Ein System, gebaut, als sechs einen trugen, muss anders aussehen, wenn sich das Verhältnis Richtung eins zu eins bewegt. Das auszusprechen greift niemanden an. Es beschreibt eine Rechenaufgabe, die sich nicht dadurch löst, dass man sie nicht anschaut.
 
 ## Was daraus folgt
 
-Aus dieser Rechenaufgabe führen drei Wege — und keiner reicht allein.
+Drei Wege — keiner reicht allein.
 
-**Mehr Menschen auf den tragenden Teil des Bandes.** Das heißt: mehr Menschen, die arbeiten können und wollen, tatsächlich in Arbeit — und eine Zuwanderung, die gezielt Menschen ins Land bringt, die tragen können und wollen. Wie ein solcher Weg fair und planbar aussehen kann, beschreibt das Konzept [Einwanderung über Bildung](einwanderung-ueber-bildung.md).
+**Mehr Menschen auf das Band.** Wer arbeiten kann und will, kommt in Arbeit — und Zuwanderung bringt gezielt Menschen ins Land, die tragen können und wollen: dafür steht [Einwanderung über Bildung](einwanderung-ueber-bildung.md).
 
-**Den tragenden Teil produktiver machen.** Wenn weniger Menschen tragen, muss jede Arbeitsstunde mehr hervorbringen — durch Technik, durch bessere Bildung, durch bezahlbare Energie für die Industrie, in der ein Großteil der Wertschöpfung entsteht. Darum geht es im Konzept [Energie](energie.md).
+**Das Band produktiver machen.** Wenn weniger tragen, muss jede Arbeitsstunde mehr hervorbringen — durch Technik ([Physische KI](physische-ki.md)), Bildung und bezahlbare Energie für die Industrie ([Energie](energie.md)).
 
-**Das Band um einen Vorrat ergänzen.** Ein Umlagesystem kennt keine Reserven — was hereinkommt, geht hinaus. Andere Länder haben deshalb neben das Förderband einen Vorratsspeicher gebaut: Vermögen, das über Jahrzehnte wächst und die Lasten mitträgt, wenn die Demografie kippt. Wie das für Rente und Gesundheit aussehen könnte, werden die nächsten Konzepte auf diesen Seiten beschreiben.
+**Einen Vorrat anlegen.** Ein Umlagesystem kennt keine Reserven; was hereinkommt, geht hinaus. Andere Länder haben neben das Band einen Speicher gebaut: Vermögen, das über Jahrzehnte wächst und mitträgt, wenn die Demografie kippt. Konzepte zu Rente und Gesundheit werden das auf diesen Seiten vertiefen.
 
 ## Ehrlich gesagt
 
-Über den Sozialstaat lässt sich mit guten Gründen streiten: wie viel Umverteilung gerecht ist, wo Anreize kippen, was der Staat leisten soll und was nicht. Dieses Konzept nimmt in diesem Streit bewusst keine Partei.
+Wie viel Umverteilung gerecht ist, bleibt legitimer Streit; dieses Konzept nimmt darin keine Partei. Zwei Kurzschlüsse führen aber sicher in die Irre: „Leistungsträger" gegen „Empfänger" zu stellen, als wären das zwei Sorten Menschen — fast jeder ist im Lauf seines Lebens beides, und die getragenen Phasen sind kein Gnadenakt, sondern der Sinn der Veranstaltung. Und umgekehrt die Verengung der tragenden Basis zu leugnen — das verschiebt die Rechnung stillschweigend auf die Jüngeren, von denen viele noch Kinder sind.
 
-Zwei Kurzschlüsse führen allerdings sicher in die Irre. Wer „Leistungsträger" gegen „Empfänger" stellt, als wären das zwei Sorten Menschen, übersieht, dass fast jeder im Laufe seines Lebens beides ist — und dass auch die getragenen Phasen kein Gnadenakt sind, sondern der Sinn der Veranstaltung. Wer aber umgekehrt die Verengung der tragenden Basis leugnet oder für unerheblich erklärt, verschiebt die Rechnung stillschweigend auf die Jüngeren, die sich nicht wehren können, weil viele von ihnen noch Kinder sind.
-
-Ein Sozialstaat, der Bestand haben soll, braucht beides: die Solidarität des Förderbands — und die Ehrlichkeit, nachzuzählen, wer gerade darauf steht.
+Ein Sozialstaat mit Bestand braucht beides: die Solidarität des Förderbands — und die Ehrlichkeit, nachzuzählen, wer gerade darauf steht.
 
 ---
 

@@ -5,11 +5,11 @@ title: Warum jetzt?
 
 # Warum jetzt?
 
-Die Konzepte auf diesen Seiten beantworten die Frage, *was* zu tun wäre. Die häufigste Gegenfrage ist eine andere: *Warum jetzt — und nicht später, wenn Haushalt, Lage und Mehrheiten günstiger sind?* Diese Seite beantwortet sie.
+Die Konzepte dieser Seiten beantworten, *was* zu tun wäre. Die häufigste Gegenfrage: *Warum jetzt — und nicht später, wenn Haushalt und Mehrheiten günstiger sind?*
 
-Die Antwort beginnt mit einer Besonderheit der Demografie: Sie ist kein Prognosegeschäft. Jeder Mensch, der in den nächsten zwanzig Jahren in Rente geht, ist heute schon geboren; jeder, der in den nächsten zwanzig Jahren ins Arbeitsleben eintritt, auch. Der Kalender ist gedruckt. Bis Mitte der 2030er Jahre erreichen Jahr für Jahr rund 1,3 Millionen Menschen das Rentenalter, während nur etwa 800.000 junge nachrücken — bis 2036 fehlen über vier Millionen Arbeitskräfte. Man kann darüber streiten, wie man damit umgeht. Man kann nicht darüber streiten, *dass* es passiert.
+Die Antwort beginnt mit einer Besonderheit der Demografie: Sie ist kein Prognosegeschäft. Jeder, der in den nächsten zwanzig Jahren in Rente geht oder ins Arbeitsleben eintritt, ist heute schon geboren. Der Kalender ist gedruckt: Jahr für Jahr erreichen rund 1,3 Millionen Menschen das Rentenalter, rund 800.000 rücken nach — bis 2036 fehlen über vier Millionen Arbeitskräfte. Über den Umgang damit kann man streiten. Nicht darüber, *dass* es passiert.
 
-Vor diesem Kalender haben die Konzepte dieser Seiten sehr unterschiedliche Geschwindigkeiten. Manche wirken in fünf Jahren, manche in fünfzehn. Wer das nicht auseinanderhält, verspricht zu viel — oder startet zu spät. Deshalb diese Uhr, in drei Phasen.
+Vor diesem Kalender haben die Konzepte sehr unterschiedliche Geschwindigkeiten — manche wirken in fünf Jahren, manche in fünfzehn. Wer das nicht auseinanderhält, verspricht zu viel oder startet zu spät. Deshalb diese Uhr, in drei Phasen.
 
 <figure>
 <svg viewBox="0 0 660 70" role="img" aria-label="Zeitleiste 2026 bis 2050 in drei Phasen: Weichenjahre 2026 bis 2030, Engpass 2030 bis 2036, Ertrag oder Versäumnis 2036 bis 2050." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
@@ -28,43 +28,31 @@ Vor diesem Kalender haben die Konzepte dieser Seiten sehr unterschiedliche Gesch
 <figcaption>Die Uhr der Konzepte: vier unwiederholbare Weichenjahre, der demografische Engpass, dann Ertrag — oder Versäumnis. Die Reihenfolge ist robust; einzelne Jahreszahlen sind Planungsstände.</figcaption>
 </figure>
 
----
-
 ## 2026–2030: Die Weichenjahre
 
-In dieser Phase ist die erfahrenste Industriegeneration der deutschen Geschichte noch im Dienst. Das macht diese Jahre unwiederholbar: Es ist die **letzte Phase, in der ihr Wissen gesichert werden kann**. Das [Gedächtnis der Industrie](konzepte/physische-ki.html) hat keine politische Frist, sondern eine biologische — was bis etwa 2035 nicht aufgezeichnet ist, ist danach nicht mehr aufzeichenbar. Kein anderes Vorhaben dieser Seiten hat eine so unverhandelbare Deadline.
+In diesen Jahren ist die erfahrenste Industriegeneration der deutschen Geschichte noch im Dienst — es ist die **letzte Phase, in der ihr Wissen gesichert werden kann**. Das [Gedächtnis der Industrie](konzepte/physische-ki.html) hat keine politische Frist, sondern eine biologische: Was bis etwa 2035 nicht aufgezeichnet ist, ist danach nicht mehr aufzeichenbar.
 
-Zugleich werden in diesen Jahren die Verträge geschrieben, die die 2030er und 2040er prägen: Das erste Stromkabel nach Nordafrika ist im Bau (geplant: 2028), der Wasserstoff-Korridor wird verhandelt, Reaktorpartnerschaften und Genehmigungsfragen werden — oder werden nicht — geklärt. Die [Mittelmeer-Partnerschaft](konzepte/mittelmeer.html) und die [Energie-Weichen](konzepte/energie.html) wirken erst später, aber ihre *Prinzipien* werden jetzt festgeschrieben. Wer bei der Vertragsgestaltung fehlt, gestaltet nicht.
+Zugleich werden jetzt die Verträge geschrieben, die die 2030er und 2040er prägen: das erste Stromkabel nach Nordafrika (geplant 2028), der Wasserstoff-Korridor, Reaktorpartnerschaften — die Prinzipien der [Mittelmeer-Partnerschaft](konzepte/mittelmeer.html) und der [Energie-Weichen](konzepte/energie.html) werden in diesen Jahren festgeschrieben. Wer bei der Vertragsgestaltung fehlt, gestaltet nicht.
 
-Und in diesen Jahren muss starten, was langsam wächst: der [Bildungs-Einwanderungsweg](konzepte/einwanderung-ueber-bildung.html) (Plattform und Pilotländer — die ersten Absolventen kommen fünf bis sieben Jahre nach dem Start), die ersten Pilotschulen einer Schulreform, und der Aufbau von Kapitalreserven für Rente und Gesundheit — denn bei allem, was über Jahrzehnte verzinst wird, ist das erste Jahrzehnt das wertvollste. Jedes Jahr Verzögerung am Anfang fehlt am Ende doppelt und dreifach.
-
-Was in dieser Phase *nicht* mehr zu ändern ist: die Größe der Lücke selbst. Die Menschen, die sie füllen könnten, wären schon geboren sein müssen.
+Und was langsam wächst, muss jetzt starten: der [Bildungs-Einwanderungsweg](konzepte/einwanderung-ueber-bildung.html) — die ersten Absolventen kommen fünf bis sieben Jahre nach dem Start —, die ersten Pilotschulen, der Kapitalaufbau für Rente und Gesundheit. Bei allem, was über Jahrzehnte verzinst wird, ist das erste Jahrzehnt das wertvollste.
 
 ## 2030–2036: Der Engpass
 
-In dieser Phase erreicht die Lücke ihr Maximum. Und hier gehört die unbequemste Wahrheit dieser Seiten hin: **Für den Engpass des kommenden Jahrzehnts gibt es keine Schulreform-Lösung und keine Reaktor-Lösung.** Die Absolventen einer noch so guten Schulreform treten erst in den 2040ern ins Arbeitsleben; neue Reaktortechnik erreicht Serienreife frühestens gegen Ende des Jahrzehnts. Wer für die 2030er Abhilfe verspricht, die aus diesen Quellen kommt, verspricht etwas, das die Zeitrechnung nicht hergibt.
+Hier erreicht die Lücke ihr Maximum — und hier gehört die unbequemste Wahrheit dieser Seiten hin: **Für den Engpass gibt es keine Schulreform-Lösung und keine Reaktor-Lösung.** Die Absolventen einer noch so guten Reform kommen erst in den 2040ern; neue Reaktortechnik erreicht Serienreife frühestens gegen Ende des Jahrzehnts. Wer für die 2030er Abhilfe aus diesen Quellen verspricht, verspricht etwas, das die Zeitrechnung nicht hergibt.
 
-Im Engpass wirken nur zwei Hebel: **vorbereitete Menschen und lernende Maschinen.** Vorbereitete Menschen — das sind die ersten Absolventen des Bildungs-Einwanderungswegs, wenn er in den Weichenjahren gestartet wurde, und alle im Land, die arbeiten können und wollen und es heute nicht tun. Lernende Maschinen — das sind Automatisierung und physische KI, gespeist aus dem Wissen, das in den Weichenjahren gesichert wurde. Beides sind genau die zwei Konzepte, deren Vorlauf in die Phase davor fällt. Das ist keine Koinzidenz — das ist der Grund, warum die Weichenjahre so heißen.
-
-Parallel geht in dieser Phase die erste neue Energie-Infrastruktur in Betrieb: Kabel, Pipeline, Wasserstoff-Demonstrationen. Sie lindern, aber sie tragen noch nicht.
+Im Engpass wirken zwei Hebel: **vorbereitete Menschen und lernende Maschinen** — genau die zwei Konzepte, deren Vorlauf in die Weichenjahre fällt. Das ist keine Koinzidenz; das ist der Grund für den Namen. Parallel geht die erste neue Energie-Infrastruktur in Betrieb: Sie lindert, trägt aber noch nicht.
 
 ## 2036–2050: Ertrag oder Versäumnis
 
-Ab Mitte der 2030er zahlt sich aus, was in den Weichenjahren gesät wurde — oder es fehlt, unwiederbringlich. Die erste Generation aus reformierten Schulen tritt ins Arbeitsleben. Kapitalreserven, die um 2026 begonnen wurden, tragen nach zwei Jahrzehnten Verzinsung spürbar — solche, die erst um 2035 begonnen wurden, noch lange nicht. Reaktortechnik der neuen Generation steht bereit — oder wird von anderen gekauft. Die Industrialisierung der Mittelmeer-Partnerschaft liefert — oder die Region ist Durchgangsraum geblieben, während die klimabedingte Wanderung ihre stärkste Phase erreicht ([die Weltbank erwartet die Zuspitzung bis 2050](konzepte/mittelmeer.html)). Ob Nordafrika dann Ankerraum oder Krisenraum ist, wurde in den 2020ern entschieden.
-
----
+Ab Mitte der 2030er zahlt sich aus, was in den Weichenjahren gesät wurde — oder es fehlt, unwiederbringlich. Die erste Generation aus reformierten Schulen tritt ins Arbeitsleben. Kapitalreserven von 2026 tragen nach zwei Jahrzehnten Verzinsung spürbar — solche von 2035 noch lange nicht. Reaktortechnik steht bereit — oder wird von anderen gekauft. Und ob Nordafrika Ankerraum oder Krisenraum ist, während die klimabedingte Wanderung ihre stärkste Phase erreicht, wurde in den 2020ern entschieden.
 
 ## Die Uhr in einem Satz
 
-Ob die 2030er schwer werden, steht nicht mehr zur Entscheidung — das haben die Geburtenjahrgänge längst entschieden. Zur Entscheidung steht, **ob Deutschland mit gesichertem Wissen, vorbereiteten Menschen und wachsenden Reserven hineingeht** — und ob die 2040er die Ernte einer klugen Dekade werden oder die Fortsetzung einer versäumten.
+Ob die 2030er schwer werden, steht nicht mehr zur Entscheidung — das haben die Geburtenjahrgänge entschieden. Zur Entscheidung steht, **ob Deutschland mit gesichertem Wissen, vorbereiteten Menschen und wachsenden Reserven hineingeht.**
 
-Deshalb ist „später" bei den langsamen Hebeln keine neutrale Option. Wer die Wissenssicherung auf 2032 verschiebt, verschiebt sie nicht — er halbiert sie. Wer den Kapitalaufbau auf 2035 verschiebt, verschiebt nicht den Beginn, sondern den Ertrag einer ganzen Generation. Und wer die Bildungswege erst im Engpass öffnet, öffnet sie für die Zeit danach.
+Deshalb ist „später" bei den langsamen Hebeln keine neutrale Option: Wer die Wissenssicherung auf 2032 verschiebt, halbiert sie. Wer den Kapitalaufbau auf 2035 verschiebt, verschiebt den Ertrag einer Generation. Wer die Bildungswege erst im Engpass öffnet, öffnet sie für die Zeit danach. Was heute beginnen muss, ist damit ablesbar: Wissenssicherung, Bildungs-Einwanderung, Kapitalaufbau, die Energie- und Mittelmeer-Verträge — und die [Klima-Architektur](konzepte/klimaschutz.md), deren Regeln gerade jetzt geschrieben werden.
 
-Was von allem *heute* beginnen muss, ist damit keine Meinungsfrage mehr, sondern ablesbar: die Wissenssicherung, der Bildungs-Einwanderungsweg, der Kapitalaufbau, die Energie- und Mittelmeer-Verträge — und die [Klima-Architektur](konzepte/klimaschutz.md) aus Bündnissen, Grenzausgleich und Senken, deren Regeln gerade jetzt geschrieben werden. Alles davon ist in den Konzepten dieser Seiten beschrieben.
-
----
-
-*Eine Ehrlichkeit zum Schluss: Die demografischen Daten dieser Seite sind so verlässlich, wie gesellschaftliche Daten sein können — alle Beteiligten sind geboren. Die Zeitangaben der Infrastrukturprojekte dagegen sind Planungsstände, und Erstprojekte verspäten sich regelmäßig. Die Uhr hängt nicht an einzelnen Jahreszahlen; sie hängt an der Reihenfolge — und die ist robust.*
+*Ehrlichkeit zum Schluss: Die demografischen Daten sind so verlässlich, wie gesellschaftliche Daten sein können — alle Beteiligten sind geboren. Die Jahreszahlen der Infrastrukturprojekte sind Planungsstände, und Erstprojekte verspäten sich regelmäßig. Die Uhr hängt nicht an Jahreszahlen, sondern an der Reihenfolge — und die ist robust.*
 
 ## Quellen
 
