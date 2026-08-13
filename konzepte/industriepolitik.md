@@ -37,21 +37,27 @@ Das Muster ähnelt sich: Deutschland forscht stark, beginnt gut — und verliert
 
 ## Die neue Lage
 
-Die Hoffnung, das sei eine Übergangserscheinung, tragen die Ereignisse nicht mehr. Die USA fördern ihre Industrie seit 2022 mit hunderten Milliarden Dollar und erheben seit 2025 fünfzehn Prozent Zoll auf die meisten europäischen Waren — wenige Jahre zuvor lag der Durchschnitt unter fünf. China setzt Lieferketten als Druckmittel ein: Als Peking im Frühjahr 2025 die Ausfuhr Seltener Erden unter Genehmigungspflicht stellte, standen Wochen später Produktionslinien europäischer Autozulieferer still — nicht weil Aufträge fehlten, sondern Magnete. Die EU erhebt seit Ende 2024 Zusatzzölle auf Elektroautos aus China.
+Die Hoffnung, das sei eine Übergangserscheinung, tragen die Ereignisse nicht mehr. Die USA fördern ihre Industrie seit 2022 mit hunderten Milliarden Dollar und erheben seit 2025 fünfzehn Prozent Zoll auf die meisten europäischen Waren — wenige Jahre zuvor lag der Durchschnitt unter fünf. China gibt für Industrieförderung, gemessen an der Wirtschaftsleistung, gut das Vierfache dessen aus, was Deutschland oder die USA aufwenden. Und es setzt Lieferketten als Druckmittel ein: Als Peking im Frühjahr 2025 die Ausfuhr Seltener Erden unter Genehmigungspflicht stellte, standen Wochen später Produktionslinien europäischer Autozulieferer still — nicht weil Aufträge fehlten, sondern Magnete. Die EU erhebt seit Ende 2024 Zusatzzölle auf Elektroautos aus China.
 
 <figure>
-<svg viewBox="0 0 660 224" role="img" aria-label="Balkendiagramm: Staatliche Industrieförderung in Prozent der Wirtschaftsleistung, 2019. China 1,7 Prozent, Südkorea 0,7 Prozent, USA 0,4 Prozent." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
+<svg viewBox="0 0 660 372" role="img" aria-label="Balkendiagramm: Staatliche Industrieförderung in Prozent der Wirtschaftsleistung, 2019. China 1,73 Prozent, Südkorea 0,67 Prozent, Frankreich 0,55 Prozent, Deutschland 0,41 Prozent, USA 0,39 Prozent." style="width:100%;height:auto;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
   <text x="2" y="30" font-size="15" font-weight="600" fill="#111">China</text>
-  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">1,7 % der Wirtschaftsleistung</text>
+  <text x="602" y="30" font-size="14" fill="#5a5850" text-anchor="end">1,73 % der Wirtschaftsleistung</text>
   <path d="M2 40 h596 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-596 z" fill="#2a78d6"/>
   <text x="2" y="104" font-size="15" font-weight="600" fill="#111">Südkorea</text>
-  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">0,7 %</text>
+  <text x="602" y="104" font-size="14" fill="#5a5850" text-anchor="end">0,67 %</text>
   <path d="M2 114 h228 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-228 z" fill="#b0aea5"/>
-  <text x="2" y="178" font-size="15" font-weight="600" fill="#111">USA</text>
-  <text x="602" y="178" font-size="14" fill="#5a5850" text-anchor="end">0,4 %</text>
-  <path d="M2 188 h131 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-131 z" fill="#b0aea5"/>
+  <text x="2" y="178" font-size="15" font-weight="600" fill="#111">Frankreich</text>
+  <text x="602" y="178" font-size="14" fill="#5a5850" text-anchor="end">0,55 %</text>
+  <path d="M2 188 h187 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-187 z" fill="#b0aea5"/>
+  <text x="2" y="252" font-size="15" font-weight="600" fill="#111">Deutschland</text>
+  <text x="602" y="252" font-size="14" fill="#5a5850" text-anchor="end">0,41 %</text>
+  <path d="M2 262 h138 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-138 z" fill="#eb6834"/>
+  <text x="2" y="326" font-size="15" font-weight="600" fill="#111">USA</text>
+  <text x="602" y="326" font-size="14" fill="#5a5850" text-anchor="end">0,39 %</text>
+  <path d="M2 336 h131 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 h-131 z" fill="#b0aea5"/>
 </svg>
-<figcaption>Staatliche Industrieförderung im Vergleich: Ausgaben in Prozent der Wirtschaftsleistung, 2019 — Subventionen, Steuernachlässe und verbilligte Kredite, konservativ geschätzt. Quelle: CSIS-Studie „Red Ink".</figcaption>
+<figcaption>Staatliche Industrieförderung in Prozent der Wirtschaftsleistung, 2019 — Subventionen, Steuernachlässe und verbilligte Kredite, konservativ geschätzt; vor den Corona-, Chips- und IRA-Programmen. Deutschland liegt fast gleichauf mit den USA; selbst Frankreich, Europas dirigistischste große Volkswirtschaft, bleibt weit unter Südkorea. Quelle: CSIS-Studie „Red Ink".</figcaption>
 </figure>
 
 Zölle, Subventionswettläufe, Exportkontrollen als Werkzeug: Der Wettbewerb der Unternehmen ist zum Wettbewerb der Staaten geworden — keine Parole, eine Zusammenfassung von Ereignissen. Die Frage ist nicht mehr, ob Deutschland und Europa Industriepolitik betreiben, sondern ob planvoll — oder erst, wenn wieder ein Tal seine Fabrik verliert.
